@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a Postdoctoral Fellow in the [Institute for Data, Systems, and Society](https://idss.mit.edu) at the Massachusetts Institute of Technology (MIT). I work in the group of [Prof. Noelle Selin](http://www.selingroup.org), focusing on atmospheric mercury (Hg) modelling. 
+Currently, I am a Postdoctoral Fellow in the [Institute for Data, Systems, and Society](https://idss.mit.edu) at the Massachusetts Institute of Technology (MIT). I work in the group of [Prof. Noelle Selin](http://www.selingroup.org), focusing on atmospheric mercury (Hg) modelling. I am interested in refining the global mercury budget using observational constraints and an array of data analysis tools —-- box models, chemistry-transport models (GEOS-Chem), and statistical models.
+
+Before joining MIT, I did my PhD at the Institute for Atmospheric and Climate Science (IAC) and the Institute of Biogeochemistry and Pollutant Dynamics (IBP) at ETH Zurich, where I was also affiliated with the aquatic research institute Eawag. My PhD work on modelling the biogeochemical cycles of sulfur and selenium  
 
 A data-driven personal website
 ======
