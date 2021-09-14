@@ -20,7 +20,7 @@ author_profile: true
 
 **Peer-reviewed papers**
 
-1. **A. Feinberg**, A. Stenke, T. Peter,  E.-L. S. Hinckley, C. T. Driscoll, L. H. E. Winkel, 2021. Reductions in the deposition of sulfur and selenium to agricultural soils pose risk of future nutrient deficiencies. Communications Earth & Environment, 2(101), 1-8. \[[pdf](https://doi.org/10.1038/s43247-021-00172-0)]  \[[data]((https://doi.org/10.3929/ethz-b-000417871)]
+1. **A. Feinberg**, A. Stenke, T. Peter,  E.-L. S. Hinckley, C. T. Driscoll, L. H. E. Winkel, 2021. Reductions in the deposition of sulfur and selenium to agricultural soils pose risk of future nutrient deficiencies. Communications Earth & Environment, 2(101), 1-8. \[[pdf](https://doi.org/10.1038/s43247-021-00172-0)]  \[[data](https://doi.org/10.3929/ethz-b-000417871)]
 
 1. T. Sukhodolov, T. Egorova, A. Stenke, W. T. Ball, C. Brodowsky, G. Chiodo, **A. Feinberg**, M. Friedel, A. Karagodin-Doyennel, T. Peter, J. Sedlacek, S. Vattioni, E. Rozanov, 2021. Atmosphere–ocean–aerosol–chemistry–climate model SOCOLv4.0: description and evaluation. Geoscientific Model Development, 14, 5525–5560. \[[pdf](https://doi.org/10.5194/gmd-14-5525-2021)]
 
@@ -30,7 +30,7 @@ author_profile: true
 
 1. **A. Feinberg**, T. Sukhodolov, B. P. Luo, E. Rozanov, L. H. E. Winkel, T. Peter, A. Stenke, 2019. Improved tropospheric and stratospheric sulfur cycle in the aerosol-chemistry-climate model SOCOL-AERv2. Geoscientific Model Development, 12, 3863-3887. \[[pdf](https://doi.org/10.5194/gmd-12-3863-2019)] \[[data](https://doi.org/10.3929/ethz-b-000342078)]
 
-1. S. Vattioni, D. Weisenstein, D. Keith, **A. Feinberg**, T. Peter, A. Stenke, 2019. Exploring accumulation- mode-H2SO4 versus SO2 stratospheric sulfate geoengineering in a sectional aerosol-chemistry-climate model. Atmospheric Chemistry and Physics, 19, 4877-4897. \[[pdf](https://doi.org/10.5194/acp-19-4877-2019)]
+1. S. Vattioni, D. Weisenstein, D. Keith, **A. Feinberg**, T. Peter, A. Stenke, 2019. Exploring accumulation- mode-H2SO4 versus SO2 stratospheric sulfate geoengineering in a sectional aerosol-chemistry-climate model. Atmospheric Chemistry and Physics, 19, 4877-4897. \[[pdf](https://doi.org/10.5194/acp-19-4877-2019)] \[[data](https://doi.org/10.7910/DVN/UNH29I)]
 
 1. L. E. Revell, A. Stenke, F. Tummon, **A. Feinberg**, E. Rozanov, T. Peter, N. L. Abraham, H. Akiyoshi, A. T. Archibald, N. Butchart, M. Deushi, P. Jöckel, D. Kinnison, M. Michou, O. Morgenstern, F. M. O’Connor, L. D. Oman, G. Pitari, D. A. Plummer, R. Schofield, K. Stone, S. Tilmes, D. Visioni, Y. Yamashita, G. Zeng, 2018. Tropospheric ozone in CCMI models and Gaussian process emulation to understand biases in the SOCOLv3 chemistry-climate model. Atmospheric Chemistry and Physics, 18, 16155-16172. \[[pdf](https://doi.org/10.5194/acp-18-16155-2018)]
 
