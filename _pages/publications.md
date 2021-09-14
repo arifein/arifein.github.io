@@ -20,4 +20,4 @@ author_profile: true
 
 **Peer-reviewed papers**
 
-<!--- 1. **Qiu, M.**, Weng, Y., Cao, J., Selin, N., Karplus,V. (2020). Improving evaluation of energy policies with multiple goals: Comparing ex ante and ex post approaches. *Environmental Science & Technology*, 54(24), 15584-15593. \[[pdf](https://pubs.acs.org/doi/abs/10.1021/acs.est.0c01381)\] \[[code](https://github.com/mhqiu/Qiu_etal_EST_2020)\]
+1. **A. Feinberg**, U. Kurien, P. A. Ariya, 2015. The Kinetics of Aqueous Mercury(II) Reduction by Sulfite over an Array of Environmental Conditions. Water, Air & Soil Pollution 226, 119. \[[pdf](https://doi.org/10.1007/s11270-015-2371-0)]
