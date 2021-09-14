@@ -39,3 +39,9 @@ author_profile: true
 1. P. A. Ariya, M. Amyot, A. Dastoor, D. Deeds, **A. Feinberg**, G. Kos, A. Poulain, A. Ryjkov, K. Semeniuk, M. Subir, K. Toyota, 2015. Mercury Physicochemical and Biogeochemical Transformation in the Atmosphere and at Atmospheric Interfaces: a Review and Future Directions. Chemical Reviews 115(10), 3760-3802. \[[pdf](https://doi.org/10.1021/cr500667e)]
 
 1. **A. Feinberg**, U. Kurien, P. A. Ariya, 2015. The Kinetics of Aqueous Mercury(II) Reduction by Sulfite over an Array of Environmental Conditions. Water, Air & Soil Pollution 226, 119. \[[pdf](https://doi.org/10.1007/s11270-015-2371-0)]
+
+**Preprints**
+
+**Book Chapters**
+1. T. Jull, M. Baroni, **A. Feinberg**, G. Kovaltsov, F. Mekhladi, R. Musheler, S. Poluianov, E. Rozanov, T. Sukhodolov, I. Usoskin, 2019. Cosmogenic isotopes as proxy for solar energetic particles. Chapter 4 in Extreme Solar Particle Storms: The Hostile Sun, eds: F. Miyake and I. Usoskin. IOP Publishing. \[[pdf](http://doi.org/10.1088/2514-3433/ab404ach4)]
+1. E. Rozanov, C. Dyer, T. Sukhodolov and **A. Feinberg**, 2019. Possible Impacts, Chapter 8 in Extreme Solar Particle Storms: The Hostile Sun, eds: F. Miyake and I. Usoskin. IOP Publishing. \[[pdf](http://doi.org/10.1088/2514-3433/ab404ach8)]
