@@ -13,6 +13,3 @@ Currently, I am a Postdoctoral Fellow in the [Institute for Data, Systems, and S
 Before joining MIT, I did my PhD (defended virtually in 2020) at the Institute for Atmospheric and Climate Science and the Institute of Biogeochemistry and Pollutant Dynamics at ETH Zurich, where I was also affiliated with the aquatic research institute Eawag. My PhD project was about the biogeochemical cycles of sulfur and selenium: two elements with analogous chemical behaviour and substantial impacts on ecosystems and health.
 
 I hold a MSc in Atmospheric and Climate Science from ETH Zurich (2016), with my MSc thesis focused on modelling atmospheric methane isotopes. I graduated from McGill University in 2014 with a BSc (Honours) in Chemistry and a Minor in Mathematics.
-
-
-{% include googlede2cbe0778ee911f.html %}
