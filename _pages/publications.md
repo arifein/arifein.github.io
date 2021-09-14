@@ -20,7 +20,9 @@ author_profile: true
 
 **Peer-reviewed papers**
 
-1. T. Sukhodolov, T. Egorova, A. Stenke, W. T. Ball, C. Brodowsky, G. Chiodo, **A. Feinberg**, M. Friedel, A. Karagodin-Doyennel, T. Peter, J. Sedlacek, S. Vattioni, and E. Rozanov, 2021. Atmosphere–ocean–aerosol–chemistry–climate model SOCOLv4.0: description and evaluation, Geoscientific Model Development, 14, 5525–5560. \[[pdf](https://doi.org/10.5194/gmd-14-5525-2021)].
+1. **A. Feinberg**, A. Stenke, T. Peter,  E.-L. S. Hinckley, C. T. Driscoll, L. H. E. Winkel, 2021. Reductions in the deposition of sulfur and selenium to agricultural soils pose risk of future nutrient deficiencies. Communications Earth & Environment 2(101), 1-8. \[[pdf](https://doi.org/10.1038/s43247-021-00172-0)]
+
+1. T. Sukhodolov, T. Egorova, A. Stenke, W. T. Ball, C. Brodowsky, G. Chiodo, **A. Feinberg**, M. Friedel, A. Karagodin-Doyennel, T. Peter, J. Sedlacek, S. Vattioni, E. Rozanov, 2021. Atmosphere–ocean–aerosol–chemistry–climate model SOCOLv4.0: description and evaluation, Geoscientific Model Development, 14, 5525–5560. \[[pdf](https://doi.org/10.5194/gmd-14-5525-2021)].
 
 1. **A. Feinberg**, A. Stenke, T. Peter, L. H. E. Winkel, 2020. Constraining Atmospheric Selenium Emissions Using Observations, Global Modeling, and Bayesian Inference. Environmental Science and Technology 54(12), 7146–7155. \[[pdf](https://doi.org/10.1021/acs.est.0c01408)]
 
@@ -41,6 +43,7 @@ author_profile: true
 1. **A. Feinberg**, U. Kurien, P. A. Ariya, 2015. The Kinetics of Aqueous Mercury(II) Reduction by Sulfite over an Array of Environmental Conditions. Water, Air & Soil Pollution 226, 119. \[[pdf](https://doi.org/10.1007/s11270-015-2371-0)]
 
 **Preprints**
+1. C. Brodowsky, T. Sukhodolov, **A. Feinberg**, M. Höpfner, P. Thomas, A. Stenke, E. Rozanov, 2021. Modeling the sulfate aerosol evolution after recent moderate volcanic activity, 2008-2012. Under reviw in JGR: Atmospheres. \[[pdf](http://doi.org/10.1002/essoar.10507433.1)]
 
 **Book Chapters**
 1. T. Jull, M. Baroni, **A. Feinberg**, G. Kovaltsov, F. Mekhladi, R. Musheler, S. Poluianov, E. Rozanov, T. Sukhodolov, I. Usoskin, 2019. Cosmogenic isotopes as proxy for solar energetic particles. Chapter 4 in Extreme Solar Particle Storms: The Hostile Sun, eds: F. Miyake and I. Usoskin. IOP Publishing. \[[pdf](http://doi.org/10.1088/2514-3433/ab404ach4)]
