@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /research/
 title: "Research Interests"
 excerpt: "Research Interests"
 ---
