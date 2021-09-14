@@ -20,13 +20,13 @@ author_profile: true
 
 **Peer-reviewed papers**
 
-1. **A. Feinberg**, A. Stenke, T. Peter,  E.-L. S. Hinckley, C. T. Driscoll, L. H. E. Winkel, 2021. Reductions in the deposition of sulfur and selenium to agricultural soils pose risk of future nutrient deficiencies. Communications Earth & Environment, 2(101), 1-8. \[[pdf](https://doi.org/10.1038/s43247-021-00172-0)] \[[data]((https://doi.org/10.3929/ethz-b-000417871)]
+1. **A. Feinberg**, A. Stenke, T. Peter,  E.-L. S. Hinckley, C. T. Driscoll, L. H. E. Winkel, 2021. Reductions in the deposition of sulfur and selenium to agricultural soils pose risk of future nutrient deficiencies. Communications Earth & Environment, 2(101), 1-8. \[[pdf](https://doi.org/10.1038/s43247-021-00172-0)]  \[[data]((https://doi.org/10.3929/ethz-b-000417871)]
 
 1. T. Sukhodolov, T. Egorova, A. Stenke, W. T. Ball, C. Brodowsky, G. Chiodo, **A. Feinberg**, M. Friedel, A. Karagodin-Doyennel, T. Peter, J. Sedlacek, S. Vattioni, E. Rozanov, 2021. Atmosphere–ocean–aerosol–chemistry–climate model SOCOLv4.0: description and evaluation. Geoscientific Model Development, 14, 5525–5560. \[[pdf](https://doi.org/10.5194/gmd-14-5525-2021)]
 
 1. **A. Feinberg**, A. Stenke, T. Peter, L. H. E. Winkel, 2020. Constraining Atmospheric Selenium Emissions Using Observations, Global Modeling, and Bayesian Inference. Environmental Science and Technology, 54(12), 7146–7155. \[[pdf](https://doi.org/10.1021/acs.est.0c01408)]
 
-1. **A. Feinberg**, M. Maliki, A. Stenke, B. Sudret, T. Peter, L. H. E. Winkel, 2020. Mapping the drivers of uncertainty in atmospheric selenium deposition with global sensitivity analysis. Atmospheric Chemistry and Physics, 20, 1363–1390. \[[pdf](https://doi.org/10.5194/acp-20-1363-2020)] \[[data]((https://doi.org/10.3929/ethz-b-000357105)]
+1. **A. Feinberg**, M. Maliki, A. Stenke, B. Sudret, T. Peter, L. H. E. Winkel, 2020. Mapping the drivers of uncertainty in atmospheric selenium deposition with global sensitivity analysis. Atmospheric Chemistry and Physics, 20, 1363–1390. \[[pdf](https://doi.org/10.5194/acp-20-1363-2020)] \[[data](https://doi.org/10.3929/ethz-b-000357105)]
 
 1. **A. Feinberg**, T. Sukhodolov, B. P. Luo, E. Rozanov, L. H. E. Winkel, T. Peter, A. Stenke, 2019. Improved tropospheric and stratospheric sulfur cycle in the aerosol-chemistry-climate model SOCOL-AERv2. Geoscientific Model Development, 12, 3863-3887. \[[pdf](https://doi.org/10.5194/gmd-12-3863-2019)] \[[data](https://doi.org/10.3929/ethz-b-000342078)]
 
