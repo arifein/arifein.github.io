@@ -24,7 +24,7 @@ author_profile: true
 
 1. Z. Zhang, B. Poulter, S. Knox, A. Stavert, G. McNicol, E. Fluet-Chouinard, **A. Feinberg**, Y. Zhao, P. Bousquet, J. G. Canadell, A. Ganesan, G. Hugelius, G. Hurtt, R. B. Jackson, P. K. Patra, M. Saunois, L. Höglund-Isaksson, C. Huang, A. Chatterjee, X. Li, 2021. Anthropogenic emission is the main contributor to the rise of atmospheric methane during 1993–2017. National Science Review. \[[pdf](https://doi.org/10.1093/nsr/nwab200)] 
 
-1. C. Brodowsky, T. Sukhodolov, T., **A. Feinberg**, M. Höpfner, T. Peter, A. Stenke, E. Rozanov, 2021. Modeling the Sulfate Aerosol Evolution After Recent Moderate Volcanic Activity, 2008–2012. Journal of Geophysical Research: Atmospheres, 126(23), 1-24. \[[pdf](https://doi.org/10.1029/2021JD035472)]  \[[data](https://doi.org/10.5281/zenodo.5035442)]
+1. C. Brodowsky, T. Sukhodolov, **A. Feinberg**, M. Höpfner, T. Peter, A. Stenke, E. Rozanov, 2021. Modeling the Sulfate Aerosol Evolution After Recent Moderate Volcanic Activity, 2008–2012. Journal of Geophysical Research: Atmospheres, 126(23), 1-24. \[[pdf](https://doi.org/10.1029/2021JD035472)]  \[[data](https://doi.org/10.5281/zenodo.5035442)]
 
 1. T. Sukhodolov, T. Egorova, A. Stenke, W. T. Ball, C. Brodowsky, G. Chiodo, **A. Feinberg**, M. Friedel, A. Karagodin-Doyennel, T. Peter, J. Sedlacek, S. Vattioni, E. Rozanov, 2021. Atmosphere–ocean–aerosol–chemistry–climate model SOCOLv4.0: description and evaluation. Geoscientific Model Development, 14, 5525–5560. \[[pdf](https://doi.org/10.5194/gmd-14-5525-2021)]
 
