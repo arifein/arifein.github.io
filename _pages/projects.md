@@ -8,6 +8,8 @@ author_profile: true
 
 ### Biogeochemical selenium and sulfur cycles
 
+![](/images/img_Se_dep.pdf)
+
 ### Statistical techniques to assess and constrain model uncertainties
 
 ### Modelling tropospheric and stratospheric sulfate aerosols
