@@ -20,7 +20,7 @@ author_profile: true
 
 **Peer-reviewed papers**
 
-1. A. Soerensen, **A. Feinberg**, A. T. Schartup, 2021. Selenium concentration in herring from the Baltic Sea tracks decadal and spatial trends in external sources. Environmental Science: Processes \& Impacts, in press. \[[pdf](https://doi.org/10.1039/d1em00418b)]
+1. A. Soerensen, **A. Feinberg**, A. T. Schartup, 2022. Selenium concentration in herring from the Baltic Sea tracks decadal and spatial trends in external sources. Environmental Science: Processes \& Impacts, in press. \[[pdf](https://doi.org/10.1039/d1em00418b)]
 
 1. **A. Feinberg**, A. Stenke, T. Peter,  E.-L. S. Hinckley, C. T. Driscoll, L. H. E. Winkel, 2021. Reductions in the deposition of sulfur and selenium to agricultural soils pose risk of future nutrient deficiencies. Communications Earth & Environment, 2(101), 1-8. \[[pdf](https://doi.org/10.1038/s43247-021-00172-0)]  \[[data](https://doi.org/10.3929/ethz-b-000417871)]
 
