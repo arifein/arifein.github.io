@@ -4,15 +4,16 @@ title: "Projects"
 excerpt: "Projects"
 author_profile: true
 ---
-### Modelling vegetation uptake of atmospheric mercury
+## Modelling vegetation uptake of atmospheric mercury
+Test text
 
-### Biogeochemical selenium and sulfur cycles
+## Biogeochemical selenium and sulfur cycles
 
 ![Alt-text](/images/img_Se_dep.png)
 *Figure caption.*
 
-### Statistical techniques to assess and constrain model uncertainties
+## Statistical techniques to assess and constrain model uncertainties
 
-### Modelling tropospheric and stratospheric sulfate aerosols
+## Modelling tropospheric and stratospheric sulfate aerosols
 
-### Methane isotopic source signatures
+## Methane isotopic source signatures
