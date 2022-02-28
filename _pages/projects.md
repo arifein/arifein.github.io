@@ -9,6 +9,7 @@ author_profile: true
 ### Biogeochemical selenium and sulfur cycles
 
 ![](/images/img_Se_dep.pdf)
+![](/images/img_Se_dep.png)
 
 ### Statistical techniques to assess and constrain model uncertainties
 
