@@ -20,6 +20,8 @@ author_profile: true
 
 **Peer-reviewed papers**
 
+1. A. Soerensen, **A. Feinberg**, A. T. Schartup, 2021. Selenium concentration in herring from the Baltic Sea tracks decadal and spatial trends in external sources. Environmental Science: Processes \& Impacts, in press. \[[pdf](https://doi.org/10.1039/d1em00418b)]
+
 1. **A. Feinberg**, A. Stenke, T. Peter,  E.-L. S. Hinckley, C. T. Driscoll, L. H. E. Winkel, 2021. Reductions in the deposition of sulfur and selenium to agricultural soils pose risk of future nutrient deficiencies. Communications Earth & Environment, 2(101), 1-8. \[[pdf](https://doi.org/10.1038/s43247-021-00172-0)]  \[[data](https://doi.org/10.3929/ethz-b-000417871)]
 
 1. Z. Zhang, B. Poulter, S. Knox, A. Stavert, G. McNicol, E. Fluet-Chouinard, **A. Feinberg**, Y. Zhao, P. Bousquet, J. G. Canadell, A. Ganesan, G. Hugelius, G. Hurtt, R. B. Jackson, P. K. Patra, M. Saunois, L. Höglund-Isaksson, C. Huang, A. Chatterjee, X. Li, 2021. Anthropogenic emission is the main contributor to the rise of atmospheric methane during 1993–2017. National Science Review. \[[pdf](https://doi.org/10.1093/nsr/nwab200)] 
@@ -46,7 +48,7 @@ author_profile: true
 
 1. **A. Feinberg**, U. Kurien, P. A. Ariya, 2015. The Kinetics of Aqueous Mercury(II) Reduction by Sulfite over an Array of Environmental Conditions. Water, Air & Soil Pollution, 226, 119. \[[pdf](https://doi.org/10.1007/s11270-015-2371-0)]
 
-**Submitted**
+**In Review**
 1. **A. Feinberg**, T. Dlamini, M. Jiskra, V. Shah, N. E. Selin. Evaluating atmospheric mercury (Hg) uptake by vegetation in a chemistry-transport model.
 
 **Book Chapters**
