@@ -42,5 +42,5 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 <figure>
     <img src="/images/methane_signature.png"
          alt="alt">
-    <figcaption>Figure caption.</figcaption>
+    <figcaption>Figure caption 2.</figcaption>
 </figure>
