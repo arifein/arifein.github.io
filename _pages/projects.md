@@ -8,7 +8,7 @@ author_profile: true
 ### Modelling vegetation uptake of atmospheric mercury
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 <figure>
-    <img src="/images/mercury_vegetation.png"
+    <img src="/images/mercury_vegetation_rs.png"
          alt="alt">
     <figcaption>Figure caption.</figcaption>
 </figure>
@@ -40,7 +40,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ### Methane isotopic source signatures
 <figure>
-    <img src="/images/methane_signature.png"
+    <img src="/images/methane_signature_rs.png"
          alt="alt">
     <figcaption>Figure caption.</figcaption>
 </figure>
