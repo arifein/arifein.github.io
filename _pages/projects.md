@@ -7,8 +7,8 @@ author_profile: true
 <figure>
     <img src="/images/mercury_vegetation.png"
          alt="alt"
-         width="500"
-         align="right">
+         width="500">
+    <figcaption>Figure caption.</figcaption>
 </figure>
 
 ### Modelling vegetation uptake of atmospheric mercury
@@ -26,14 +26,26 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 
 ### Statistical techniques to assess and constrain model uncertainties
-![Alt-text](/images/Aerosol_Se_validation.png)
-*<sup>Figure caption.</sup>*
+<figure>
+    <img src="/images/Aerosol_Se_validation.png"
+         alt="alt"
+         width="500">
+    <figcaption>Figure caption.</figcaption>
+</figure>
 
 ### Modelling tropospheric and stratospheric sulfate aerosols
-![Alt-text](/images/sulfur_cycle.png)
-*<sup>Figure caption.</sup>*
+<figure>
+    <img src="/images/sulfur_cycle.png"
+         alt="alt"
+         width="1000">
+    <figcaption>Figure caption.</figcaption>
+</figure>
 
 
 ### Methane isotopic source signatures
-![Alt-text](/images/methane_signature.png)
-*<sup>Figure caption.</sup>*
+<figure>
+    <img src="/images/methane_signature.png"
+         alt="alt"
+         width="1000">
+    <figcaption>Figure caption.</figcaption>
+</figure>
