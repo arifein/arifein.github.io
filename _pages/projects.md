@@ -31,7 +31,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ### Modelling tropospheric and stratospheric sulfate aerosols
 ![Alt-text](/images/sulfur_cycle.png)
-*<sup>Figure caption.</sup>*![image](https://user-images.githubusercontent.com/82537515/156191348-5946ffb2-e454-462e-9fcd-2ec5f5a2c4f3.png)
+*<sup>Figure caption.</sup>*
 
 
 ### Methane isotopic source signatures
