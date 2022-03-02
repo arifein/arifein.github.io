@@ -29,7 +29,7 @@ Atmospheric chemistry models contain many uncertain parameters, yet due to their
 <figure>
     <img src="/images/combined_stats.png"
          alt="Probability distribution of selenium lifetime and model-measurement comparison">
-    <figcaption> Outputted probability distribution of the mean atmospheric selenium lifetime ([Feinberg et al., ACP, 2020](https://doi.org/10.5194/acp-20-1363-2020)) (*left*). Comparison between the SOCOL-AER model simulated particulate selenium and measurements from aerosol networks ([Feinberg et al., EST, 2020](https://doi.org/10.1021/acs.est.0c01408)) (*right*).</figcaption>
+    <figcaption> Outputted probability distribution of the mean atmospheric selenium lifetime (<a href="https://doi.org/10.5194/acp-20-1363-2020">Feinberg et al., ACP, 2020</a>) (*left*). Comparison between the SOCOL-AER model simulated particulate selenium and measurements from aerosol networks (<a href="https://doi.org/10.1021/acs.est.0c01408">Feinberg et al., EST, 2020</a>) (*right*).</figcaption>
 </figure>
 
 ## Modelling tropospheric and stratospheric sulfate aerosols
@@ -37,7 +37,7 @@ My PhD work used the aerosol-chemistry-climate model SOCOL-AER, first developed 
 <figure>
     <img src="/images/sulfur_cycle.png"
          alt="Atmospheric sulfur budget">
-    <figcaption>Atmospheric sulfur budget from SOCOL-AERv2 under non-volcanic background conditions for the year 2000 (fluxes in Gg per year and burdens in Gg). Red numbers show flux estimates from observations or other models ([Feinberg et al., 2019](https://doi.org/10.5194/gmd-12-3863-2019)).</figcaption>
+    <figcaption>Atmospheric sulfur budget from SOCOL-AERv2 under non-volcanic background conditions for the year 2000 (fluxes in Gg per year and burdens in Gg). Red numbers show flux estimates from observations or other models (<a href="https://doi.org/10.5194/gmd-12-3863-2019">Feinberg et al., 2019</a>).</figcaption>
 </figure>
 
 
@@ -46,5 +46,5 @@ The isotopic ratio of the stable carbon isotopes (<sup>13</sup>C and <sup>12</su
 <figure>
     <img src="/images/methane_signature.png"
          alt="Map of livestock methane isotopic signature">
-    <figcaption>Example map of methane isotopic source signature from livestock emissions ([Feinberg et al., 2018](https://doi.org/10.1016/j.atmosenv.2017.11.037)).</figcaption>
+    <figcaption>Example map of methane isotopic source signature from livestock emissions (<a href="https://doi.org/10.1016/j.atmosenv.2017.11.037">Feinberg et al., 2018</a>).</figcaption>
 </figure>
