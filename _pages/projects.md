@@ -29,7 +29,7 @@ Atmospheric chemistry models contain many uncertain parameters, yet due to their
 <figure>
     <img src="/images/combined_stats.png"
          alt="Probability distribution of selenium lifetime and model-measurement comparison">
-    <figcaption> Outputted probability distribution of the mean atmospheric selenium lifetime (<a href="https://doi.org/10.5194/acp-20-1363-2020">Feinberg et al., ACP, 2020</a>) (*left*). Comparison between simulated and measured atmospheric particulate selenium (<a href="https://doi.org/10.1021/acs.est.0c01408">Feinberg et al., EST, 2020</a>) (*right*).</figcaption>
+    <figcaption> Outputted probability distribution of the mean atmospheric selenium lifetime (<a href="https://doi.org/10.5194/acp-20-1363-2020">Feinberg et al., ACP, 2020</a>) (<i>left</i>). Comparison between simulated and measured atmospheric particulate selenium (<a href="https://doi.org/10.1021/acs.est.0c01408">Feinberg et al., EST, 2020</a>) (<i>right</i>).</figcaption>
 </figure>
 
 ## Modelling tropospheric and stratospheric sulfate aerosols
