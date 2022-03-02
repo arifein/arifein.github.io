@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Modelling vegetation uptake of atmospheric mercury
-The terrestrial biosphere is a major sink of atmospheric mercury, but global estimates of this sink vary widely (1000 to 4000 tons per year). I am compiling available measurements of mercury vegetation uptake from the literature and comparing them to simulations in the global chemistry-transport model GEOS-Chem, in order to assess the magnitude of the mercury vegetation sink. I am also interested in how climate change and deforestation will affect biosphere-atmosphere exchange of mercury in the future.
+The terrestrial biosphere is a major sink of atmospheric mercury, but global estimates of this sink vary widely (1000 to 4000 tons per year). I am compiling available measurements of mercury vegetation uptake from the literature and comparing them to simulations in the global chemistry-transport model GEOS-Chem, in order to assess the magnitude of the mercury vegetation sink. I am also interested in how climate change and deforestation will affect the biosphere-atmosphere exchange of mercury in the future.
 <figure>
     <img src="/images/mercury_vegetation.png"
          alt="Gold mining sites within the Amazon rainforest">
@@ -20,7 +20,7 @@ Selenium and sulfur are both essential nutrients for humans and animals, and sul
 <figure>
     <img src="/images/img_Se_dep.png"
          alt="Map showing future decline of selenium">
-    <figcaption>Projected declines in selenium deposition between the recent period (2005–2009) and the future (2095–2099) under the SSP1-2.6 scenario. Pie charts show the source contributions to selenium deposition for each continent, with biogenic sources contributing a larger proportion of deposition in the future ([Feinberg et al., 2021](https://doi.org/10.1038/s43247-021-00172-0)).</figcaption>
+    <figcaption>Projected declines in selenium deposition between the recent period (2005–2009) and the future (2095–2099) under the SSP1-2.6 scenario. Pie charts show the source contributions to selenium deposition for each continent, with biogenic sources contributing a larger proportion of deposition in the future  (<a href="https://doi.org/10.1038/s43247-021-00172-0">Feinberg et al., 2021</a>).</figcaption>
 </figure>
 
 
