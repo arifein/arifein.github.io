@@ -20,7 +20,7 @@ Selenium and sulfur are both essential nutrients for humans and animals, and sul
 <figure>
     <img src="/images/img_Se_dep.png"
          alt="alt">
-    <figcaption>Figure caption.</figcaption>
+    <figcaption>Projected declines in selenium deposition between the recent period (2005–2009) and the future (2095–2099) under the SSP1-2.6 scenario. Pie charts show the source contributions to selenium deposition for each continent, with biogenic sources contributing a larger proportion of deposition in the future.</figcaption>
 </figure>
 
 
