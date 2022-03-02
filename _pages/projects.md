@@ -20,11 +20,12 @@ Selenium and sulfur are both essential nutrients for humans and animals, and sul
 <figure>
     <img src="/images/img_Se_dep.png"
          alt="alt">
-    <figcaption>Projected declines in selenium deposition between the recent period (2005–2009) and the future (2095–2099) under the SSP1-2.6 scenario. Pie charts show the source contributions to selenium deposition for each continent, with biogenic sources contributing a larger proportion of deposition in the future.</figcaption>
+    <figcaption>Projected declines in selenium deposition between the recent period (2005–2009) and the future (2095–2099) under the SSP1-2.6 scenario. Pie charts show the source contributions to selenium deposition for each continent, with biogenic sources contributing a larger proportion of deposition in the future ([Feinberg et al., CEE, 2021](https://doi.org/10.1038/s43247-021-00172-0)).</figcaption>
 </figure>
 
 
 ## Statistical techniques to assess and constrain model uncertainties
+Atmospheric chemistry models contain many uncertain parameters, yet due to their computational complexity it has been difficult to explore their full uncertainty space. We conducted a global sensitivity analysis on the atmospheric selenium model (SOCOL-AER), considering the impact of 34 parameters (reaction rates, emissions, aerosol partitioning) on deposition maps and the overall atmospheric lifetime of selenium ([Feinberg et al., ACP, 2020](https://doi.org/10.5194/acp-20-1363-2020)). The sensitivity analysis was facilitated by building a statistical emulator (surrogate model) in the form of polynomial chaos expansions to represent the output of the full SOCOL-AER model. Despite wide uncertainties in the atmospheric selenium reaction rate, we calculated that the mean atmospheric selenium lifetime is likely between 3 and 6 days, establishing that long range atmospheric transport (>1000 km) can occur. We also identified that uncertainties in selenium emissions are the main driver for uncertainties in deposition maps. This finding inspired our next study to constrain the emissions of selenium from different sources using Bayesian inference and a compiled database of atmospheric selenium observations from more than 600 measurement stations ([Feinberg et al., EST, 2020](https://doi.org/10.1021/acs.est.0c01408)).
 <figure>
     <img src="/images/combined_stats.png"
          alt="alt">
