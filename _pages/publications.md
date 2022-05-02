@@ -20,7 +20,9 @@ author_profile: true
 
 **Peer-reviewed papers**
 
-1. A. Soerensen, **A. Feinberg**, A. T. Schartup, 2022. Selenium concentration in herring from the Baltic Sea tracks decadal and spatial trends in external sources. Environmental Science: Processes & Impacts, in press. \[[pdf](https://doi.org/10.1039/d1em00418b)]
+1. **A. Feinberg**, T. Dlamini, M. Jiskra, V. Shah, N. E. Selin, 2022. Evaluating atmospheric mercury (Hg) uptake by vegetation in a chemistry-transport model. Environmental Science: Processes & Impacts. \[[pdf](https://doi.org/10.1039/D2EM00032F)] \[[code](https://github.com/arifein/offline-drydep)]
+
+1. A. Soerensen, **A. Feinberg**, A. T. Schartup, 2022. Selenium concentration in herring from the Baltic Sea tracks decadal and spatial trends in external sources. Environmental Science: Processes & Impacts. \[[pdf](https://doi.org/10.1039/d1em00418b)]
 
 1. **A. Feinberg**, A. Stenke, T. Peter,  E.-L. S. Hinckley, C. T. Driscoll, L. H. E. Winkel, 2021. Reductions in the deposition of sulfur and selenium to agricultural soils pose risk of future nutrient deficiencies. Communications Earth & Environment, 2(101), 1-8. \[[pdf](https://doi.org/10.1038/s43247-021-00172-0)]  \[[data](https://doi.org/10.3929/ethz-b-000417871)]
 
@@ -47,9 +49,6 @@ author_profile: true
 1. P. A. Ariya, M. Amyot, A. Dastoor, D. Deeds, **A. Feinberg**, G. Kos, A. Poulain, A. Ryjkov, K. Semeniuk, M. Subir, K. Toyota, 2015. Mercury Physicochemical and Biogeochemical Transformation in the Atmosphere and at Atmospheric Interfaces: a Review and Future Directions. Chemical Reviews, 115(10), 3760-3802. \[[pdf](https://doi.org/10.1021/cr500667e)]
 
 1. **A. Feinberg**, U. Kurien, P. A. Ariya, 2015. The Kinetics of Aqueous Mercury(II) Reduction by Sulfite over an Array of Environmental Conditions. Water, Air & Soil Pollution, 226, 119. \[[pdf](https://doi.org/10.1007/s11270-015-2371-0)]
-
-**In Review**
-1. **A. Feinberg**, T. Dlamini, M. Jiskra, V. Shah, N. E. Selin. Evaluating atmospheric mercury (Hg) uptake by vegetation in a chemistry-transport model.
 
 **Book Chapters**
 1. T. Jull, M. Baroni, **A. Feinberg**, G. Kovaltsov, F. Mekhladi, R. Musheler, S. Poluianov, E. Rozanov, T. Sukhodolov, I. Usoskin, 2019. Cosmogenic isotopes as proxy for solar energetic particles. Chapter 4 in Extreme Solar Particle Storms: The Hostile Sun, eds: F. Miyake and I. Usoskin. IOP Publishing. \[[pdf](http://doi.org/10.1088/2514-3433/ab404ach4)]
