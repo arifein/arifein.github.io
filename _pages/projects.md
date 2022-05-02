@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Modelling vegetation uptake of atmospheric mercury
-The terrestrial biosphere is a major sink of atmospheric mercury, but global estimates of this sink vary widely (1000 to 4000 tons per year). I am compiling available measurements of mercury vegetation uptake from the literature and comparing them to simulations in the global chemistry-transport model GEOS-Chem, in order to assess the magnitude of the mercury vegetation sink. I am also interested in how climate change and deforestation will affect the biosphere-atmosphere exchange of mercury in the future.
+The terrestrial biosphere is a major sink of atmospheric mercury, but global estimates of this sink vary widely (1000 to 4000 tons per year). We compiled available measurements of mercury vegetation uptake from the literature and compared them to simulations in the global chemistry-transport model GEOS-Chem, in order to assess the magnitude of the mercury vegetation sink ([Feinberg et al., 2022](https://doi.org/10.1039/D2EM00032F)). I am also interested in how climate change and deforestation will affect the biosphere-atmosphere exchange of mercury in the future.
 <figure>
     <img src="/images/mercury_vegetation.png"
          alt="Gold mining sites within the Amazon rainforest">
