@@ -20,7 +20,7 @@ author_profile: true
 
 **Peer-reviewed papers**
 
-1. **A. Feinberg**, T. Dlamini, M. Jiskra, V. Shah, N. E. Selin, 2022. Evaluating atmospheric mercury (Hg) uptake by vegetation in a chemistry-transport model. Environmental Science: Processes & Impacts. \[[pdf](https://doi.org/10.1039/D2EM00032F)] \[[code](https://github.com/arifein/offline-drydep)]
+1. **A. Feinberg**, T. Dlamini, M. Jiskra, V. Shah, N. E. Selin, 2022. Evaluating atmospheric mercury (Hg) uptake by vegetation in a chemistry-transport model. Environmental Science: Processes & Impacts. \[[pdf](https://doi.org/10.1039/D2EM00032F)] \[[code](https://github.com/arifein/offline-drydep)]\[[data](https://doi.org/10.7910/DVN/R7NRNK)]
 
 1. A. Soerensen, **A. Feinberg**, A. T. Schartup, 2022. Selenium concentration in herring from the Baltic Sea tracks decadal and spatial trends in external sources. Environmental Science: Processes & Impacts. \[[pdf](https://doi.org/10.1039/d1em00418b)]
 
