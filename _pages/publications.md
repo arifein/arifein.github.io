@@ -30,7 +30,7 @@ author_profile: true
 
 1. C. Brodowsky, T. Sukhodolov, **A. Feinberg**, M. Höpfner, T. Peter, A. Stenke, E. Rozanov, 2021. Modeling the Sulfate Aerosol Evolution After Recent Moderate Volcanic Activity, 2008–2012. Journal of Geophysical Research: Atmospheres, 126(23), 1-24. \[[pdf](https://doi.org/10.1029/2021JD035472)]  \[[data](https://doi.org/10.5281/zenodo.5035442)]
 
-1. T. Sukhodolov, T. Egorova, A. Stenke, W. T. Ball, C. Brodowsky, G. Chiodo, **A. Feinberg**, M. Friedel, A. Karagodin-Doyennel, T. Peter, J. Sedlacek, S. Vattioni, E. Rozanov, 2021. Atmosphere–ocean–aerosol–chemistry–climate model SOCOLv4.0: description and evaluation. Geoscientific Model Development, 14, 5525–5560. \[[pdf](https://doi.org/10.5194/gmd-14-5525-2021)]
+1. T. Sukhodolov, T. Egorova, A. Stenke, W. T. Ball, C. Brodowsky, G. Chiodo, **A. Feinberg**, M. Friedel, A. Karagodin-Doyennel, T. Peter, J. Sedlacek, S. Vattioni, E. Rozanov, 2021. Atmosphere–ocean–aerosol–chemistry–climate model SOCOLv4.0: description and evaluation. Geoscientific Model Development, 14, 5525–5560. \[[pdf](https://doi.org/10.5194/gmd-14-5525-2021)]\[[data](https://doi.org/10.5281/zenodo.5148741)]
 
 1. **A. Feinberg**, A. Stenke, T. Peter, L. H. E. Winkel, 2020. Constraining Atmospheric Selenium Emissions Using Observations, Global Modeling, and Bayesian Inference. Environmental Science and Technology, 54(12), 7146–7155. \[[pdf](https://doi.org/10.1021/acs.est.0c01408)]
 
