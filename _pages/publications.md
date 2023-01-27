@@ -22,7 +22,7 @@ author_profile: true
 
 **A. Feinberg**, M. Jiskra, P. Borrelli, J. Biswakarma, N. E. Selin. Land use change as an anthropogenic driver of mercury pollution. EarthArXiv preprint. \[[pdf](https://doi.org/10.31223/X5TQ03)] \[[data](https://doi.org/10.5281/zenodo.7566032)]
 
-T. Berkemeier, M. Krüger*, **A. Feinberg***, M. Müller*, U. Pöschl, U. K. Krieger. Accelerating models for multiphase chemical kinetics through machine learning with polynomial chaos expansion and neural networks. In review at Geoscientific Model Development. \[[pdf](https://doi.org/10.5194/egusphere-2022-1093)] \[[data](https://doi.org/10.5281/zenodo.7214880)] 
+T. Berkemeier, M. Krüger\*, **A. Feinberg**\*, M. Müller*, U. Pöschl, U. K. Krieger. Accelerating models for multiphase chemical kinetics through machine learning with polynomial chaos expansion and neural networks. In review at Geoscientific Model Development. \[[pdf](https://doi.org/10.5194/egusphere-2022-1093)] \[[data](https://doi.org/10.5281/zenodo.7214880)] 
 
 I. R. Lao, **A. Feinberg**, N. Borduas-Dedekind, 2022. Regional sources and sinks of atmospheric particulate selenium in the United States based on seasonality profiles. In review at Environmental Science & Technology. \[[code](https://github.com/isabellelao/atmos_se_improve.git)]
 
