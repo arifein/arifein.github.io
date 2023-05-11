@@ -22,17 +22,16 @@ author_profile: true
 
 **A. Feinberg**, M. Jiskra, P. Borrelli, J. Biswakarma, N. E. Selin. Land use change as an anthropogenic driver of mercury pollution. EarthArXiv preprint. \[[pdf](https://doi.org/10.31223/X5TQ03)] \[[data](https://doi.org/10.5281/zenodo.7566032)]
 
-T. Berkemeier, M. Krüger\*, **A. Feinberg**\*, M. Müller*, U. Pöschl, U. K. Krieger. Accelerating models for multiphase chemical kinetics through machine learning with polynomial chaos expansion and neural networks. In review at Geoscientific Model Development. \[[pdf](https://doi.org/10.5194/egusphere-2022-1093)] \[[data](https://doi.org/10.5281/zenodo.7214880)] 
-
-I. R. Lao, **A. Feinberg**, N. Borduas-Dedekind, 2022. Regional sources and sinks of atmospheric particulate selenium in the United States based on seasonality profiles. In review at Environmental Science & Technology. \[[code](https://github.com/isabellelao/atmos_se_improve.git)]
-
-G. Jones, L. Insinga, B. Droz, **A. Feinberg**, A. Stenke, J. Smith, P. Smith, L. H. E. Winkel. Widespread losses of essential elements predicted for European soils. In review at Environmental Science & Technology.
+L. Wohlgemuth, **A. Feinberg**, A. Buras, M. Jiskra. A spatial assessment of current and future foliar Hg uptake fluxes across European forests. ESS Open Archive preprint. 
 
 **Peer-reviewed papers**
+1. I. R. Lao, **A. Feinberg**, N. Borduas-Dedekind, 2023. Regional Sources and Sinks of Atmospheric Particulate Selenium in the United States Based on Seasonality Profiles. Environmental Science & Technology. \[[pdf](https://doi.org/10.1021/acs.est.2c08243)] [[code](https://github.com/isabellelao/atmos_se_improve.git)]
 
-1. **A. Feinberg**, T. Dlamini, M. Jiskra, V. Shah, N. E. Selin, 2022. Evaluating atmospheric mercury (Hg) uptake by vegetation in a chemistry-transport model. Environmental Science: Processes & Impacts. \[[pdf](https://doi.org/10.1039/D2EM00032F)] \[[code](https://github.com/arifein/offline-drydep)]\[[data](https://doi.org/10.7910/DVN/R7NRNK)]
+1. T. Berkemeier, M. Krüger\*, **A. Feinberg**\*, M. Müller*, U. Pöschl, U. K. Krieger. Accelerating models for multiphase chemical kinetics through machine learning with polynomial chaos expansion and neural networks. Geoscientific Model Development, 16, 2037–2054. \[[pdf](https://doi.org/10.5194/gmd-16-2037-2023)] \[[data](https://doi.org/10.5281/zenodo.7214880)] 
 
-1. A. Soerensen, **A. Feinberg**, A. T. Schartup, 2022. Selenium concentration in herring from the Baltic Sea tracks decadal and spatial trends in external sources. Environmental Science: Processes & Impacts. \[[pdf](https://doi.org/10.1039/d1em00418b)]
+1. **A. Feinberg**, T. Dlamini, M. Jiskra, V. Shah, N. E. Selin, 2022. Evaluating atmospheric mercury (Hg) uptake by vegetation in a chemistry-transport model. Environmental Science: Processes & Impacts, 24, 1303-1318. \[[pdf](https://doi.org/10.1039/D2EM00032F)] \[[code](https://github.com/arifein/offline-drydep)]\[[data](https://doi.org/10.7910/DVN/R7NRNK)]
+
+1. A. Soerensen, **A. Feinberg**, A. T. Schartup, 2022. Selenium concentration in herring from the Baltic Sea tracks decadal and spatial trends in external sources. Environmental Science: Processes & Impacts, 24, 1319-1329. \[[pdf](https://doi.org/10.1039/d1em00418b)]
 
 1. **A. Feinberg**, A. Stenke, T. Peter,  E.-L. S. Hinckley, C. T. Driscoll, L. H. E. Winkel, 2021. Reductions in the deposition of sulfur and selenium to agricultural soils pose risk of future nutrient deficiencies. Communications Earth & Environment, 2(101), 1-8. \[[pdf](https://doi.org/10.1038/s43247-021-00172-0)]  \[[data](https://doi.org/10.3929/ethz-b-000417871)]
 
