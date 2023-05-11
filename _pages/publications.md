@@ -27,7 +27,7 @@ L. Wohlgemuth, **A. Feinberg**, A. Buras, M. Jiskra. A spatial assessment of cur
 **Peer-reviewed papers**
 1. I. R. Lao, **A. Feinberg**, N. Borduas-Dedekind, 2023. Regional Sources and Sinks of Atmospheric Particulate Selenium in the United States Based on Seasonality Profiles. Environmental Science & Technology. \[[pdf](https://doi.org/10.1021/acs.est.2c08243)] [[code](https://github.com/isabellelao/atmos_se_improve.git)]
 
-1. T. Berkemeier, M. Krüger\*, **A. Feinberg**\*, M. Müller*, U. Pöschl, U. K. Krieger. Accelerating models for multiphase chemical kinetics through machine learning with polynomial chaos expansion and neural networks. Geoscientific Model Development, 16, 2037–2054. \[[pdf](https://doi.org/10.5194/gmd-16-2037-2023)] \[[data](https://doi.org/10.5281/zenodo.7214880)] 
+1. T. Berkemeier, M. Krüger\*, **A. Feinberg**\*, M. Müller*, U. Pöschl, U. K. Krieger, 2023. Accelerating models for multiphase chemical kinetics through machine learning with polynomial chaos expansion and neural networks. Geoscientific Model Development, 16, 2037–2054. \[[pdf](https://doi.org/10.5194/gmd-16-2037-2023)] \[[data](https://doi.org/10.5281/zenodo.7214880)] 
 
 1. **A. Feinberg**, T. Dlamini, M. Jiskra, V. Shah, N. E. Selin, 2022. Evaluating atmospheric mercury (Hg) uptake by vegetation in a chemistry-transport model. Environmental Science: Processes & Impacts, 24, 1303-1318. \[[pdf](https://doi.org/10.1039/D2EM00032F)] \[[code](https://github.com/arifein/offline-drydep)]\[[data](https://doi.org/10.7910/DVN/R7NRNK)]
 
