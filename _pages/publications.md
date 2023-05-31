@@ -20,7 +20,7 @@ author_profile: true
 
 **Submitted or in review**
 
-**A. Feinberg**, M. Jiskra, P. Borrelli, J. Biswakarma, N. E. Selin. Land use change as an anthropogenic driver of mercury pollution. EarthArXiv preprint. \[[pdf](https://doi.org/10.31223/X5TQ03)] \[[data](https://doi.org/10.5281/zenodo.7957157)]
+**A. Feinberg**, M. Jiskra, P. Borrelli, J. Biswakarma, N. E. Selin. Deforestation as an anthropogenic driver of mercury pollution. EarthArXiv preprint. \[[pdf](https://doi.org/10.31223/X5TQ03)] \[[data](https://doi.org/10.5281/zenodo.7957157)]
 
 L. Wohlgemuth, **A. Feinberg**, A. Buras, M. Jiskra. A spatial assessment of current and future foliar Hg uptake fluxes across European forests. ESS Open Archive preprint. \[[pdf](https://essopenarchive.org/users/616059/articles/642209-a-spatial-assessment-of-current-and-future-foliar-hg-uptake-fluxes-across-european-forests)] \[[data](https://doi.org/10.5281/zenodo.7851718)]
 
