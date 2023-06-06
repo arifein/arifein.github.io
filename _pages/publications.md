@@ -19,6 +19,7 @@ author_profile: true
 \* denotes equally contributing authors
 
 **Submitted or in review**
+
 E. S. Breuninger, J. Tolu, I. Thurnherr, F. Aemisegger, **A. Feinberg**, S. Bouchet, J. E. Sonke, V. Pont, H. Wernli, and L. H. E. Winkel. Influences of sources and weather dynamics on atmospheric deposition of Se species and other trace elements. EGUsphere preprint. \[[pdf](https://doi.org/10.5194/egusphere-2023-1135)]
 
 **A. Feinberg**, M. Jiskra, P. Borrelli, J. Biswakarma, N. E. Selin. Deforestation as an anthropogenic driver of mercury pollution. EarthArXiv preprint. \[[pdf](https://doi.org/10.31223/X5TQ03)] \[[data](https://doi.org/10.5281/zenodo.7957157)]
