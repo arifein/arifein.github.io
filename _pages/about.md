@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellow in the [Blas Cabrera Institute of Physical Chemistry](https://www.iqf.csic.es/en/) (IQF), which is part of the Spanish National Research Council (CSIC). I work in the group of [Dr. Alfonso Saiz-Lopez](https://ac2.iqf.csic.es/en/), focusing on the atmospheric chemistry of the toxic pollutant mercury (Hg). I am interested in refining the global mercury budget using observational constraints and an array of data analysis tools — box models, chemistry-transport models, and statistical models. 
+Currently, I am a Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellow 🇪🇺 in the [Blas Cabrera Institute of Physical Chemistry](https://www.iqf.csic.es/en/) (IQF), which is part of the Spanish National Research Council (CSIC). I work in the group of [Dr. Alfonso Saiz-Lopez](https://ac2.iqf.csic.es/en/), focusing on the atmospheric chemistry of the toxic pollutant mercury (Hg). I am interested in refining the global mercury budget using observational constraints and an array of data analysis tools — box models, chemistry-transport models, and statistical models. 
 
 Before joining IQF-CSIC, I was a SNSF Early Postdoc.Mobility Fellow in the group of Prof. Noelle Selin at MIT. There I began my foray into mercury modelling, including using GEOS-Chem to analyze the uptake of gaseous mercury by the terrestrial biosphere and recent trends in atmospheric mercury concentrations. 
 
