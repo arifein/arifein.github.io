@@ -24,9 +24,10 @@ E. S. Breuninger, J. Tolu, I. Thurnherr, F. Aemisegger, **A. Feinberg**, S. Bouc
 
 **A. Feinberg**, M. Jiskra, P. Borrelli, J. Biswakarma, N. E. Selin. Deforestation as an anthropogenic driver of mercury pollution. EarthArXiv preprint. \[[pdf](https://doi.org/10.31223/X5TQ03)] \[[data](https://doi.org/10.5281/zenodo.7957157)]
 
-L. Wohlgemuth, **A. Feinberg**, A. Buras, M. Jiskra. A spatial assessment of current and future foliar Hg uptake fluxes across European forests. ESS Open Archive preprint. \[[pdf](https://essopenarchive.org/users/616059/articles/642209-a-spatial-assessment-of-current-and-future-foliar-hg-uptake-fluxes-across-european-forests)] \[[data](https://doi.org/10.5281/zenodo.7851718)]
 
 **Peer-reviewed papers**
+1. L. Wohlgemuth, **A. Feinberg**, A. Buras, M. Jiskra, 2023. A spatial assessment of current and future foliar Hg uptake fluxes across European forests. Global Biogeochemical Cycles, 37, e2023GB007833. \[[pdf](https://doi.org/10.1029/2023GB007833)] \[[data](https://doi.org/10.5281/zenodo.7851718)]
+
 1. I. R. Lao, **A. Feinberg**, N. Borduas-Dedekind, 2023. Regional Sources and Sinks of Atmospheric Particulate Selenium in the United States Based on Seasonality Profiles. Environmental Science & Technology. \[[pdf](https://doi.org/10.1021/acs.est.2c08243)] [[code](https://github.com/isabellelao/atmos_se_improve.git)]
 
 1. T. Berkemeier, M. Krüger\*, **A. Feinberg**\*, M. Müller*, U. Pöschl, U. K. Krieger, 2023. Accelerating models for multiphase chemical kinetics through machine learning with polynomial chaos expansion and neural networks. Geoscientific Model Development, 16, 2037–2054. \[[pdf](https://doi.org/10.5194/gmd-16-2037-2023)] \[[data](https://doi.org/10.5281/zenodo.7214880)] 
