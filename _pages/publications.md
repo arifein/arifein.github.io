@@ -20,15 +20,19 @@ author_profile: true
 
 **Submitted or in review**
 
-E. S. Breuninger, J. Tolu, I. Thurnherr, F. Aemisegger, **A. Feinberg**, S. Bouchet, J. E. Sonke, V. Pont, H. Wernli, and L. H. E. Winkel. Influences of sources and weather dynamics on atmospheric deposition of Se species and other trace elements. EGUsphere preprint. \[[pdf](https://doi.org/10.5194/egusphere-2023-1135)]
+**A. Feinberg**, N. E. Selin, C. F. Braban, K.-L. Chang, D. Custódio, D. A. Jaffe, K. Kyllönen, M. S. Landis, S. R. Leeson, K. M. Molepo, M. Murovec, M. G. Nerentorp Mastromonaco, K. A. Pfaffhubern, J. Rüdiger, G.-R. Sheu, and V. L. St.Louis. Increasing anthropogenic emissions inconsistent with declining atmospheric mercury concentrations. EarthArXiv preprint.
 
-**A. Feinberg**, M. Jiskra, P. Borrelli, J. Biswakarma, N. E. Selin. Deforestation as an anthropogenic driver of mercury pollution. EarthArXiv preprint. \[[pdf](https://doi.org/10.31223/X5TQ03)] \[[data](https://doi.org/10.5281/zenodo.7957157)]
+**A. Feinberg**, M. Jiskra, P. Borrelli, J. Biswakarma, N. E. Selin. Deforestation as an anthropogenic driver of mercury pollution. EarthArXiv preprint. \[[pdf](https://doi.org/10.31223/X5TQ03)] \[[data](https://doi.org/10.5281/zenodo.8364698)]
 
 
 **Peer-reviewed papers**
+1. E. S. Breuninger, J. Tolu, I. Thurnherr, F. Aemisegger, **A. Feinberg**, S. Bouchet, J. E. Sonke, V. Pont, H. Wernli, and L. H. E. Winkel, accepted. Influences of sources and weather dynamics on atmospheric deposition of Se species and other trace elements. Atmospheric Chemistry and Physics. \[[pdf](https://doi.org/10.5194/egusphere-2023-1135)]
+
+1. S. Vattioni,  B. Luo,  **A. Feinberg**,  A. Stenke,  C. Vockenhuber,  R. Weber,  J. A. Dykema,  U. K. Krieger,  M. Ammann,  F. Keutsch,  T. Peter,  G. Chiodo, 2023. Chemical Impact of Stratospheric Alumina Particle Injection for Solar Radiation Modification and Related Uncertainties. Geophysical Research Letters, 50, e2023GL105889. \[[pdf](https://doi.org/10.1029/2023GL105889)]
+
 1. L. Wohlgemuth, **A. Feinberg**, A. Buras, M. Jiskra, 2023. A spatial assessment of current and future foliar Hg uptake fluxes across European forests. Global Biogeochemical Cycles, 37, e2023GB007833. \[[pdf](https://doi.org/10.1029/2023GB007833)] \[[data](https://doi.org/10.5281/zenodo.7851718)]
 
-1. I. R. Lao, **A. Feinberg**, N. Borduas-Dedekind, 2023. Regional Sources and Sinks of Atmospheric Particulate Selenium in the United States Based on Seasonality Profiles. Environmental Science & Technology. \[[pdf](https://doi.org/10.1021/acs.est.2c08243)] [[code](https://github.com/isabellelao/atmos_se_improve.git)]
+1. I. R. Lao, **A. Feinberg**, N. Borduas-Dedekind, 2023. Regional Sources and Sinks of Atmospheric Particulate Selenium in the United States Based on Seasonality Profiles. Environmental Science & Technology, 57(19), 7401–7409. \[[pdf](https://doi.org/10.1021/acs.est.2c08243)] [[code](https://github.com/isabellelao/atmos_se_improve.git)]
 
 1. T. Berkemeier, M. Krüger\*, **A. Feinberg**\*, M. Müller*, U. Pöschl, U. K. Krieger, 2023. Accelerating models for multiphase chemical kinetics through machine learning with polynomial chaos expansion and neural networks. Geoscientific Model Development, 16, 2037–2054. \[[pdf](https://doi.org/10.5194/gmd-16-2037-2023)] \[[data](https://doi.org/10.5281/zenodo.7214880)] 
 
