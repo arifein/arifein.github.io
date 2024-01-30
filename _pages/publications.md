@@ -39,9 +39,9 @@ author_profile: true
 
 1. A. Soerensen, **A. Feinberg**, A. T. Schartup, 2022. Selenium concentration in herring from the Baltic Sea tracks decadal and spatial trends in external sources. Environmental Science: Processes & Impacts, 24, 1319-1329. \[[pdf](https://doi.org/10.1039/d1em00418b)]
 
-1. **A. Feinberg**, A. Stenke, T. Peter,  E.-L. S. Hinckley, C. T. Driscoll, L. H. E. Winkel, 2021. Reductions in the deposition of sulfur and selenium to agricultural soils pose risk of future nutrient deficiencies. Communications Earth & Environment, 2(101), 1-8. \[[pdf](https://doi.org/10.1038/s43247-021-00172-0)]  \[[data](https://doi.org/10.3929/ethz-b-000417871)]
+1. Z. Zhang, B. Poulter, S. Knox, A. Stavert, G. McNicol, E. Fluet-Chouinard, **A. Feinberg**, Y. Zhao, P. Bousquet, J. G. Canadell, A. Ganesan, G. Hugelius, G. Hurtt, R. B. Jackson, P. K. Patra, M. Saunois, L. Höglund-Isaksson, C. Huang, A. Chatterjee, X. Li, 2022. Anthropogenic emission is the main contributor to the rise of atmospheric methane during 1993–2017. National Science Review. \[[pdf](https://doi.org/10.1093/nsr/nwab200)] 
 
-1. Z. Zhang, B. Poulter, S. Knox, A. Stavert, G. McNicol, E. Fluet-Chouinard, **A. Feinberg**, Y. Zhao, P. Bousquet, J. G. Canadell, A. Ganesan, G. Hugelius, G. Hurtt, R. B. Jackson, P. K. Patra, M. Saunois, L. Höglund-Isaksson, C. Huang, A. Chatterjee, X. Li, 2021. Anthropogenic emission is the main contributor to the rise of atmospheric methane during 1993–2017. National Science Review. \[[pdf](https://doi.org/10.1093/nsr/nwab200)] 
+1. **A. Feinberg**, A. Stenke, T. Peter,  E.-L. S. Hinckley, C. T. Driscoll, L. H. E. Winkel, 2021. Reductions in the deposition of sulfur and selenium to agricultural soils pose risk of future nutrient deficiencies. Communications Earth & Environment, 2(101), 1-8. \[[pdf](https://doi.org/10.1038/s43247-021-00172-0)]  \[[data](https://doi.org/10.3929/ethz-b-000417871)]
 
 1. C. Brodowsky, T. Sukhodolov, **A. Feinberg**, M. Höpfner, T. Peter, A. Stenke, E. Rozanov, 2021. Modeling the Sulfate Aerosol Evolution After Recent Moderate Volcanic Activity, 2008–2012. Journal of Geophysical Research: Atmospheres, 126(23), 1-24. \[[pdf](https://doi.org/10.1029/2021JD035472)]  \[[data](https://doi.org/10.5281/zenodo.5035442)]
 
