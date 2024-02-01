@@ -17,6 +17,7 @@ author_profile: true
 -->
 
 \* denotes equally contributing authors
+OA pdf refers to Open Access PDF, available from a repository
 
 **Submitted or in review**
 
@@ -61,7 +62,7 @@ author_profile: true
 
 1. **A. Feinberg**, A. Coulon, A. Stenke, S. Schwietzke, T. Peter, 2018. Isotopic source signatures: Impact of regional variability on the δ13CH4 trend and spatial distribution. Atmospheric Environment, 174, 99-111. \[[pdf](https://doi.org/10.1016/j.atmosenv.2017.11.037)]
 
-1. P. A. Ariya, M. Amyot, A. Dastoor, D. Deeds, **A. Feinberg**, G. Kos, A. Poulain, A. Ryjkov, K. Semeniuk, M. Subir, K. Toyota, 2015. Mercury Physicochemical and Biogeochemical Transformation in the Atmosphere and at Atmospheric Interfaces: a Review and Future Directions. Chemical Reviews, 115(10), 3760-3802. \[[pdf](https://doi.org/10.1021/cr500667e)]
+1. P. A. Ariya, M. Amyot, A. Dastoor, D. Deeds, **A. Feinberg**, G. Kos, A. Poulain, A. Ryjkov, K. Semeniuk, M. Subir, K. Toyota, 2015. Mercury Physicochemical and Biogeochemical Transformation in the Atmosphere and at Atmospheric Interfaces: a Review and Future Directions. Chemical Reviews, 115(10), 3760-3802. \[[pdf](https://doi.org/10.1021/cr500667e)] <a href="/files/Hgreduction_merged_upload.pdf" target="_blank">[OA pdf].</a>
 
 1. **A. Feinberg**, U. Kurien, P. A. Ariya, 2015. The Kinetics of Aqueous Mercury(II) Reduction by Sulfite over an Array of Environmental Conditions. Water, Air & Soil Pollution, 226, 119. \[[pdf](https://doi.org/10.1007/s11270-015-2371-0)]
 
