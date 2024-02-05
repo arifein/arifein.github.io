@@ -33,7 +33,7 @@ OA pdf refers to Open Access PDF, when journal version is paywalled
 
 1. L. Wohlgemuth, **A. Feinberg**, A. Buras, M. Jiskra, 2023. A spatial assessment of current and future foliar Hg uptake fluxes across European forests. Global Biogeochemical Cycles, 37, e2023GB007833. \[[pdf](https://doi.org/10.1029/2023GB007833)] \[[data](https://doi.org/10.5281/zenodo.7851718)]
 
-1. I. R. Lao, **A. Feinberg**, N. Borduas-Dedekind, 2023. Regional Sources and Sinks of Atmospheric Particulate Selenium in the United States Based on Seasonality Profiles. Environmental Science & Technology, 57(19), 7401–7409. \[[pdf](https://doi.org/10.1021/acs.est.2c08243)] [[code](https://github.com/isabellelao/atmos_se_improve.git)]
+1. I. R. Lao, **A. Feinberg**, N. Borduas-Dedekind, 2023. Regional Sources and Sinks of Atmospheric Particulate Selenium in the United States Based on Seasonality Profiles. Environmental Science & Technology, 57(19), 7401–7409. \[[pdf](https://doi.org/10.1021/acs.est.2c08243)] \[[OA pdf](https://hdl.handle.net/1721.1/153450)] [[code](https://github.com/isabellelao/atmos_se_improve.git)]
 
 1. T. Berkemeier, M. Krüger\*, **A. Feinberg**\*, M. Müller*, U. Pöschl, U. K. Krieger, 2023. Accelerating models for multiphase chemical kinetics through machine learning with polynomial chaos expansion and neural networks. Geoscientific Model Development, 16, 2037–2054. \[[pdf](https://doi.org/10.5194/gmd-16-2037-2023)] \[[data](https://doi.org/10.5281/zenodo.7214880)] 
 
@@ -63,9 +63,9 @@ OA pdf refers to Open Access PDF, when journal version is paywalled
 
 1. **A. Feinberg**, A. Coulon, A. Stenke, S. Schwietzke, T. Peter, 2018. Isotopic source signatures: Impact of regional variability on the δ13CH4 trend and spatial distribution. Atmospheric Environment, 174, 99-111. \[[pdf](https://doi.org/10.1016/j.atmosenv.2017.11.037)]
 
-1. P. A. Ariya, M. Amyot, A. Dastoor, D. Deeds, **A. Feinberg**, G. Kos, A. Poulain, A. Ryjkov, K. Semeniuk, M. Subir, K. Toyota, 2015. Mercury Physicochemical and Biogeochemical Transformation in the Atmosphere and at Atmospheric Interfaces: a Review and Future Directions. Chemical Reviews, 115(10), 3760-3802. \[[pdf](https://doi.org/10.1021/cr500667e)] [<a href="/files/Hgreduction_merged_upload.pdf" target="_blank">OA pdf</a>]
+1. P. A. Ariya, M. Amyot, A. Dastoor, D. Deeds, **A. Feinberg**, G. Kos, A. Poulain, A. Ryjkov, K. Semeniuk, M. Subir, K. Toyota, 2015. Mercury Physicochemical and Biogeochemical Transformation in the Atmosphere and at Atmospheric Interfaces: a Review and Future Directions. Chemical Reviews, 115(10), 3760-3802. \[[pdf](https://doi.org/10.1021/cr500667e)]
 
-1. **A. Feinberg**, U. Kurien, P. A. Ariya, 2015. The Kinetics of Aqueous Mercury(II) Reduction by Sulfite over an Array of Environmental Conditions. Water, Air & Soil Pollution, 226, 119. \[[pdf](https://doi.org/10.1007/s11270-015-2371-0)]
+1. **A. Feinberg**, U. Kurien, P. A. Ariya, 2015. The Kinetics of Aqueous Mercury(II) Reduction by Sulfite over an Array of Environmental Conditions. Water, Air & Soil Pollution, 226, 119. \[[pdf](https://doi.org/10.1007/s11270-015-2371-0)] [<a href="/files/Hgreduction_merged_upload.pdf" target="_blank">OA pdf</a>]
 
 **Book Chapters**
 1. T. Jull, M. Baroni, **A. Feinberg**, G. Kovaltsov, F. Mekhladi, R. Musheler, S. Poluianov, E. Rozanov, T. Sukhodolov, I. Usoskin, 2019. Cosmogenic isotopes as proxy for solar energetic particles. Chapter 4 in Extreme Solar Particle Storms: The Hostile Sun, eds: F. Miyake and I. Usoskin. IOP Publishing. \[[pdf](http://doi.org/10.1088/2514-3433/ab404ach4)]
