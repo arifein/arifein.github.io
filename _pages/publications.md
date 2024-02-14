@@ -16,9 +16,9 @@ author_profile: true
 {% endfor %}
 -->
 
-\* denotes equally contributing authors
+\* denotes equally contributing authors.
 
-OA pdf refers to Open Access PDF, when journal version is paywalled
+OA pdf refers to Open Access PDF, when journal version is paywalled.
 
 **Submitted or in review**
 
