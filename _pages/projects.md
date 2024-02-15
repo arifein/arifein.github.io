@@ -13,7 +13,7 @@ It is challenging to model the atmospheric redox transformations of mercury for 
 </figure>
 
 ## Drivers of recent mercury trends
-Atmospheric mercury concentrations have been declining at most sites in North America, Europe, and East Asia over the last decade. The drivers of these trends are highly uncertain, as anthropogenic mercury emissions inventories show global emissions increases over the same period. To assess the causes of recent mercury trends, I am applying new statistical methods to Hg observation time series and models. Understanding the trends in Hg is crucial for the upcoming effectiveness evaluation of the Minamata Convention on Mercury. 
+Atmospheric mercury concentrations have been declining at most sites in North America, Europe, and East Asia over the last decade. The drivers of these trends are highly uncertain, as anthropogenic mercury emissions inventories show global emissions increases over the same period. To assess the causes of recent mercury trends, I applied new statistical methods to Hg observation time series and models ([preprint, under review](https://doi.org/10.31223/X5B38K)). Understanding the trends in Hg is crucial for the upcoming effectiveness evaluation of the Minamata Convention on Mercury. 
 <figure>
     <img src="/images/mercury_trends.png"
          alt="Hg time series analysis">
@@ -21,7 +21,7 @@ Atmospheric mercury concentrations have been declining at most sites in North Am
 </figure>
 
 ## Modelling vegetation uptake of atmospheric mercury
-The terrestrial biosphere is a major sink of atmospheric mercury, but global estimates of this sink vary widely (1000 to 4000 tons per year). I compiled available measurements of mercury vegetation uptake from the literature and compared them to simulations in the global chemistry-transport model GEOS-Chem, in order to assess the magnitude of the mercury vegetation sink ([Feinberg et al., 2022](https://doi.org/10.1039/D2EM00032F)). I have also worked on how land use change through deforestation and reforestation impact the biosphere-atmosphere exchange of mercury ([preprint, submitted](https://doi.org/10.31223/X5TQ03)).
+The terrestrial biosphere is a major sink of atmospheric mercury, but global estimates of this sink vary widely (1000 to 4000 tons per year). I compiled available measurements of mercury vegetation uptake from the literature and compared them to simulations in the global chemistry-transport model GEOS-Chem, in order to assess the magnitude of the mercury vegetation sink ([Feinberg et al., 2022](https://doi.org/10.1039/D2EM00032F)). I have also worked on how land use change through deforestation and reforestation impact the biosphere-atmosphere exchange of mercury [Feinberg et al., 2024](https://doi.org/10.1021/acs.est.3c07851).
 <figure>
     <img src="/images/mercury_vegetation.png"
          alt="Gold mining sites within the Amazon rainforest">
