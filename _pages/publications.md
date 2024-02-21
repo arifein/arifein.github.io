@@ -25,7 +25,7 @@ OA pdf refers to Open Access PDF, when journal version is paywalled.
 **A. Feinberg**, N. E. Selin, C. F. Braban, K.-L. Chang, D. Custódio, D. A. Jaffe, K. Kyllönen, M. S. Landis, S. R. Leeson, K. M. Molepo, M. Murovec, M. G. Nerentorp Mastromonaco, K. A. Pfaffhubern, J. Rüdiger, G.-R. Sheu, and V. L. St.Louis. Increasing anthropogenic emissions inconsistent with declining atmospheric mercury concentrations. EarthArXiv preprint. \[[pdf](https://doi.org/10.31223/X5B38K)]\[[data](https://doi.org/10.5281/zenodo.10551589)]
 
 **Peer-reviewed papers**
-1. **A. Feinberg**, M. Jiskra, P. Borrelli, J. Biswakarma, N. E. Selin, 2024. Deforestation as an anthropogenic driver of mercury pollution. Environmental Science & Technology. \[[pdf](https://doi.org/10.1021/acs.est.3c07851)] \[[OA pdf](https://doi.org/10.31223/X5TQ03)] \[[data](https://doi.org/10.5281/zenodo.8364698)]
+1. **A. Feinberg**, M. Jiskra, P. Borrelli, J. Biswakarma, N. E. Selin, 2024. Deforestation as an anthropogenic driver of mercury pollution. Environmental Science & Technology, 58(7), 3246–3257. \[[pdf](https://doi.org/10.1021/acs.est.3c07851)] \[[OA pdf](https://doi.org/10.31223/X5TQ03)] \[[data](https://doi.org/10.5281/zenodo.8364698)]
 
 1. E. S. Breuninger, J. Tolu, I. Thurnherr, F. Aemisegger, **A. Feinberg**, S. Bouchet, J. E. Sonke, V. Pont, H. Wernli, and L. H. E. Winkel, accepted. Influences of sources and weather dynamics on atmospheric deposition of Se species and other trace elements. Atmospheric Chemistry and Physics. \[[pdf](https://doi.org/10.5194/egusphere-2023-1135)]
 
