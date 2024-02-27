@@ -27,7 +27,7 @@ OA pdf refers to Open Access PDF, when journal version is paywalled.
 **Peer-reviewed papers**
 1. **A. Feinberg**, M. Jiskra, P. Borrelli, J. Biswakarma, N. E. Selin, 2024. Deforestation as an anthropogenic driver of mercury pollution. Environmental Science & Technology, 58(7), 3246–3257. \[[pdf](https://doi.org/10.1021/acs.est.3c07851)] \[[OA pdf](https://doi.org/10.31223/X5TQ03)] \[[data](https://doi.org/10.5281/zenodo.8364698)]
 
-1. E. S. Breuninger, J. Tolu, I. Thurnherr, F. Aemisegger, **A. Feinberg**, S. Bouchet, J. E. Sonke, V. Pont, H. Wernli, and L. H. E. Winkel, accepted. Influences of sources and weather dynamics on atmospheric deposition of Se species and other trace elements. Atmospheric Chemistry and Physics. \[[pdf](https://doi.org/10.5194/egusphere-2023-1135)]
+1. E. S. Breuninger, J. Tolu, I. Thurnherr, F. Aemisegger, **A. Feinberg**, S. Bouchet, J. E. Sonke, V. Pont, H. Wernli, and L. H. E. Winkel, 2024. Influences of sources and weather dynamics on atmospheric deposition of Se species and other trace elements. Atmospheric Chemistry and Physics, 24, 2491–2510. \[[pdf](https://doi.org/10.5194/acp-24-2491-2024)] \[[data](https://doi.org/10.3929/ethz-b-000647996)]
 
 1. S. Vattioni,  B. Luo,  **A. Feinberg**,  A. Stenke,  C. Vockenhuber,  R. Weber,  J. A. Dykema,  U. K. Krieger,  M. Ammann,  F. Keutsch,  T. Peter,  G. Chiodo, 2023. Chemical Impact of Stratospheric Alumina Particle Injection for Solar Radiation Modification and Related Uncertainties. Geophysical Research Letters, 50, e2023GL105889. \[[pdf](https://doi.org/10.1029/2023GL105889)]
 
