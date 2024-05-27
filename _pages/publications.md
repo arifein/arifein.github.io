@@ -20,9 +20,13 @@ author_profile: true
 
 OA pdf refers to Open Access PDF, when journal version is paywalled.
 
-**Submitted or in review**
+**In review**
 
 **A. Feinberg**, N. E. Selin, C. F. Braban, K.-L. Chang, D. Custódio, D. A. Jaffe, K. Kyllönen, M. S. Landis, S. R. Leeson, K. M. Molepo, M. Murovec, M. G. Nerentorp Mastromonaco, K. A. Pfaffhubern, J. Rüdiger, G.-R. Sheu, and V. L. St.Louis. Increasing anthropogenic emissions inconsistent with declining atmospheric mercury concentrations. EarthArXiv preprint. \[[pdf](https://doi.org/10.31223/X5B38K)]\[[data](https://doi.org/10.5281/zenodo.10551589)]
+
+A. Dastoor, H. Angot, J. Bieser, F. Brocza, B. Edwards, **A. Feinberg**, X. Feng, B. Geyman, C. Gournia, Y. He, I. M. Hedgecock, I. Ilyin, T. Keating, J. Kirk, C.-J. Lin, I. Lehnherr, R. Mason, D. McLagan, M. Muntean, P. Rafaj, E. M. Roy, A. Ryjkov, N. E. Selin, F. De Simone, A. L. Soerensen, F. Steenhuisen, O. Travnikov, S. Wang, X. Wang, S, Wilson, R. Wu, Q. Wu, Y. Zhang, J. Zhou, W. Zhu, and S. Zolkos: The Multi-Compartment Hg Modeling and Analysis Project (MCHgMAP): Mercury modeling to support international environmental policy, Geosci. Model Dev. Discuss. \[[pdf](https://doi.org/10.5194/gmd-2024-65)].
+
+S. Vattioni, R. Weber, **A. Feinberg**, A. Stenke, J. A. Dykema, B. Luo, G. A. Kelesidis, C. A. Bruun, T. Sukhodolov, F. N. Keutsch, T. Peter, and G. Chiodo: A fully coupled solid particle microphysics scheme for stratospheric aerosol injections within the aerosol-chemistry-climate-model SOCOL-AERv2,  Geosci. Model Dev. Discuss. \[[pdf](https://doi.org/10.5194/egusphere-2024-444)].
 
 **Peer-reviewed papers**
 1. **A. Feinberg**, M. Jiskra, P. Borrelli, J. Biswakarma, N. E. Selin, 2024. Deforestation as an anthropogenic driver of mercury pollution. Environmental Science & Technology, 58(7), 3246–3257. \[[pdf](https://doi.org/10.1021/acs.est.3c07851)] \[[OA pdf](https://doi.org/10.31223/X5TQ03)] \[[data](https://doi.org/10.5281/zenodo.8364698)]
