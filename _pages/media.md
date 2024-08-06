@@ -16,5 +16,16 @@ author_profile: true
 
 **Eawag News**, 2021, "Atmospheric inputs of nutrients to soil to decrease in the future" \[[article](https://www.eawag.ch/en/info/portal/news/news-detail/atmospheric-inputs-of-nutrients-to-soil-to-decrease-in-the-future/)]
 
+## Blog posts
+**SpringerNature Behind the Paper**, 2021, "From air pollution to your plate: declining atmospheric nutrient inputs to agricultural soils" \[[blog](https://communities.springernature.com/posts/from-air-pollution-to-your-plate-declining-atmospheric-nutrient-inputs-to-agricultural-soils)]
 
-## Wikipedia Editing
+## Wikipedia editing
+Wikipedia is likely the first stop many people go (including general public, scientists, and students) to learn about a new topic. Inspired by a [Twitter exchange](https://x.com/markmccaughrean/status/1559687188568313857) about outdated information on the mercury Wikipedia page, I am working towards editing information on pages within my scientific expertise. The pages I found that need updates are: 
+
+- [Mercury_(element)](https://en.wikipedia.org/wiki/Mercury_(element))
+- [Mercury cycle](https://en.wikipedia.org/wiki/Mercury_cycle)
+- [Selenium cycle](https://en.wikipedia.org/wiki/Selenium_cycle)
+
+Contact me if you're interested in collaborating on this! I've found these resources helpful for starting my Wikipedia editing journey:
+- [Help:Wikipedia editing for researchers, scholars, and academics](https://en.wikipedia.org/wiki/Help:Wikipedia_editing_for_researchers,_scholars,_and_academics)
+- [Three Reasons Why Earth Scientists Should Edit Wikipedia](https://eos.org/opinions/three-reasons-why-earth-scientists-should-edit-wikipedia)
