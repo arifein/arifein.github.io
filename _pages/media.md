@@ -10,7 +10,7 @@ author_profile: true
 
 **Mongabay**, 2024, "Brazil tackles illegal miners, but finds their mercury legacy harder to erase" \[[article](https://news.mongabay.com/2023/03/brazil-tackles-illegal-miners-but-finds-their-mercury-legacy-harder-to-erase/)]
 
-**WFXT (Fox)**, 2024, news story on our mercury deforestation research \[[archived clip](https://archive.tveyes.com/7313/meltwater/f0b52cc6-ade8-4bff-96dd-3aeea33fa232/WFXT_02-12-2024_18.18.12.mp4)]
+**WFXT (Fox)**, 2024, TV news clip on our mercury deforestation research \[[archived clip](https://archive.tveyes.com/7313/meltwater/f0b52cc6-ade8-4bff-96dd-3aeea33fa232/WFXT_02-12-2024_18.18.12.mp4)]
 
 **MIT News**, 2024, "Study: Global deforestation leads to more mercury pollution" \[[article](https://news.mit.edu/2024/study-global-deforestation-leads-more-mercury-pollution-0212)]
 
