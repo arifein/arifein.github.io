@@ -29,6 +29,8 @@ A. Dastoor, H. Angot, J. Bieser, F. Brocza, B. Edwards, **A. Feinberg**, X. Feng
 S. Vattioni, R. Weber, **A. Feinberg**, A. Stenke, J. A. Dykema, B. Luo, G. A. Kelesidis, C. A. Bruun, T. Sukhodolov, F. N. Keutsch, T. Peter, and G. Chiodo: A fully coupled solid particle microphysics scheme for stratospheric aerosol injections within the aerosol-chemistry-climate-model SOCOL-AERv2,  Geosci. Model Dev. Discuss. \[[pdf](https://doi.org/10.5194/egusphere-2024-444)].
 
 **Peer-reviewed papers**
+1. G. D. Jones, L. Insinga, B. Droz, **A. Feinberg**, A. Stenke, J. Smith, P. Smith, and L. H. E. Winkel, 2024. Emerging investigator series: predicted losses of sulfur and selenium in European soils using machine learning: a call for prudent model interrogation and selection. Environmental Science: Processes & Impacts. \[[pdf](https://doi.org/10.1039/D4EM00338A)] \[[OA pdf](https://hdl.handle.net/1721.1/155949)] \[[code](https://zenodo.org/doi/10.5281/zenodo.12695648)]
+
 1. **A. Feinberg**, M. Jiskra, P. Borrelli, J. Biswakarma, N. E. Selin, 2024. Deforestation as an anthropogenic driver of mercury pollution. Environmental Science & Technology, 58(7), 3246–3257. \[[pdf](https://doi.org/10.1021/acs.est.3c07851)] \[[OA pdf](https://doi.org/10.31223/X5TQ03)] \[[data](https://doi.org/10.5281/zenodo.8364698)]
 
 1. E. S. Breuninger, J. Tolu, I. Thurnherr, F. Aemisegger, **A. Feinberg**, S. Bouchet, J. E. Sonke, V. Pont, H. Wernli, and L. H. E. Winkel, 2024. Influences of sources and weather dynamics on atmospheric deposition of Se species and other trace elements. Atmospheric Chemistry and Physics, 24, 2491–2510. \[[pdf](https://doi.org/10.5194/acp-24-2491-2024)] \[[data](https://doi.org/10.3929/ethz-b-000647996)]
