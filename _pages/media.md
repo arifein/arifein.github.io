@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 ## Featured news coverage
-**Living Planet (Deutsche Welle)**, 2024, as a podcast fanatic, it was very exciting to be interviewed in "Deep dive: Mercury’s promise of gold in South America" \[[audio/transcript](https://www.dw.com/en/deep-dive-mercurys-tantalizing-promise-of-endless-gold-in-south-america/audio-68856349)]
+**MIT News**, 2024, "Study finds mercury pollution from human activities is declining" \[[article](https://news.mit.edu/2024/study-finds-mercury-pollution-from-human-activities-declining-1008)]
+
+**Living Planet (Deutsche Welle)**, 2024, as a podcast enthusiast, it was very exciting to be interviewed in "Deep dive: Mercury’s promise of gold in South America" \[[audio/transcript](https://www.dw.com/en/deep-dive-mercurys-tantalizing-promise-of-endless-gold-in-south-america/audio-68856349)]
 
 **Mongabay**, 2024, "Brazil tackles illegal miners, but finds their mercury legacy harder to erase" \[[article](https://news.mongabay.com/2023/03/brazil-tackles-illegal-miners-but-finds-their-mercury-legacy-harder-to-erase/)]
 
@@ -17,6 +19,8 @@ author_profile: true
 **Eawag News**, 2021, "Atmospheric inputs of nutrients to soil to decrease in the future" \[[article](https://www.eawag.ch/en/info/portal/news/news-detail/atmospheric-inputs-of-nutrients-to-soil-to-decrease-in-the-future/)]
 
 ## Blog posts
+**Kudos Research Showcase**, 2024, "Declining atmospheric mercury concentrations over the last two decades" \[[blog](https://link.growkudos.com/1e9gcl7r8qo)]
+
 **SpringerNature Behind the Paper**, 2021, "From air pollution to your plate: declining atmospheric nutrient inputs to agricultural soils" \[[blog](https://communities.springernature.com/posts/from-air-pollution-to-your-plate-declining-atmospheric-nutrient-inputs-to-agricultural-soils)]
 
 ## Wikipedia editing
