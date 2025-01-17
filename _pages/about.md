@@ -15,3 +15,5 @@ Before joining IQF-CSIC, I was a SNSF Early Postdoc.Mobility Fellow in the group
 I did my PhD (defended virtually in 2020) at the Institute for Atmospheric and Climate Science (with [Prof. Thomas Peter](https://iac.ethz.ch/former-group/atmospheric-chemistry.html)) and the Institute of Biogeochemistry and Pollutant Dynamics at ETH Zurich (with [Prof. Lenny Winkel](https://ieg.ethz.ch/)), where I was also affiliated with the aquatic research institute Eawag. My PhD project was about the biogeochemical cycles of sulfur and selenium: two elements with analogous chemical behaviour and substantial impacts on ecosystems and health.
 
 I hold a MSc in Atmospheric and Climate Science from ETH Zurich (2016), with my MSc thesis focused on modelling atmospheric methane isotopes. I graduated from McGill University in 2014 with a BSc (Honours) in Chemistry and a Minor in Mathematics.
+
+<iframe width="480" height="360" src="http://www.youtube.com/embed/x9CtJ8bT0Nc" frameborder="0"> </iframe>
