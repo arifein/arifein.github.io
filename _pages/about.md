@@ -16,4 +16,4 @@ I did my PhD (defended virtually in 2020) at the Institute for Atmospheric and C
 
 I hold a MSc in Atmospheric and Climate Science from ETH Zurich (2016), with my MSc thesis focused on modelling atmospheric methane isotopes. I graduated from McGill University in 2014 with a BSc (Honours) in Chemistry and a Minor in Mathematics.
 
-<iframe width="480" height="360" src="http://www.youtube.com/embed/x9CtJ8bT0Nc" frameborder="0"> </iframe>
+<iframe width="480" height="360" src="https://www.youtube.com/embed/x9CtJ8bT0Nc" frameborder="0"> </iframe>
