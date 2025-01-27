@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Featured news coverage
+**Radio Ecoshock**, 2025, "Mercury in the sky" \[[audio](https://www.ecoshock.org/2025/01/mercury-tears-and-climate-fears.html)]
+
 **MIT News**, 2024, "Study finds mercury pollution from human activities is declining" \[[article](https://news.mit.edu/2024/study-finds-mercury-pollution-from-human-activities-declining-1008)]
 
 **Living Planet (Deutsche Welle)**, 2024, as a podcast enthusiast, it was very exciting to be interviewed in "Deep dive: Mercury’s promise of gold in South America" \[[audio/transcript](https://www.dw.com/en/deep-dive-mercurys-tantalizing-promise-of-endless-gold-in-south-america/audio-68856349)]
