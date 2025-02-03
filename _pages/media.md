@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Featured news coverage
+**Nature India**, 2025, "Mercury pollution driven by stratospheric forces" \[[article](https://www.nature.com/articles/d44151-025-00013-5)]
+
 **Radio Ecoshock**, 2025, "Mercury in the sky" \[[audio](https://www.ecoshock.org/2025/01/mercury-tears-and-climate-fears.html)]
 
 **MIT News**, 2024, "Study finds mercury pollution from human activities is declining" \[[article](https://news.mit.edu/2024/study-finds-mercury-pollution-from-human-activities-declining-1008)]
