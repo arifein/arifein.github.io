@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Featured news coverage
+**Radio Nacional de España**, 2025, "A golpe de bit": interview about stratospheric mercury transport (in Spanish) \[[audio](https://www.rtve.es/play/audios/a-golpe-de-bit/golpe-bit-hallada-posible-cura-para-anemia-fanconi/16479108/)]
+
 **Nature India**, 2025, "Mercury pollution driven by stratospheric forces" \[[article](https://www.nature.com/articles/d44151-025-00013-5)]
 
 **Radio Ecoshock**, 2025, "Mercury in the sky" \[[audio](https://www.ecoshock.org/2025/01/mercury-tears-and-climate-fears.html)]
