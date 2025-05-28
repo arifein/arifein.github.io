@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Featured news coverage
+**Chemical & Engineering News (c&en)**, 2025, "Mercury emissions are falling" \[[article](https://cen.acs.org/environment/pollution/Mercury-emissions-falling/103/web/2025/05)]
+
 **Radio Nacional de España**, 2025, "A golpe de bit": interview about stratospheric mercury transport (in Spanish) \[[audio](https://www.rtve.es/play/audios/a-golpe-de-bit/golpe-bit-hallada-posible-cura-para-anemia-fanconi/16479108/)]
 
 **Nature India**, 2025, "Mercury pollution driven by stratospheric forces" \[[article](https://www.nature.com/articles/d44151-025-00013-5)]
