@@ -20,11 +20,13 @@ author_profile: true
 
 OA pdf refers to Open Access PDF, when journal version is paywalled.
 
+**Preprints**
+1. C. Gournia,  N. E. Selin, **A. Feinberg**. Identifying regions that can constrain anthropogenic Hg emissions uncertainties through modelling, EGUsphere. \[[pdf](https://doi.org/10.5194/egusphere-2025-4018)]
 
 **Peer-reviewed papers**
 1. J. Carmona-García, A. Saiz-Lopez, A. S. Mahajan, F. Wang, A. Borrego-Sánchez, A. U. Acuña, C. A. Cuevas, J. Z. Dávalos, **A. Feinberg**, A. Spolaor, M. F. Ruiz-López, J. S. Francisco, D. Roca-Sanjuán, 2025. Photoreduction of mercuric bromides in polar ice, Proceedings of the National Academy of Sciences, 122(10), e2422885122. \[[pdf](https://doi.org/10.1073/pnas.2422885122)].
 
-1. A. Dastoor, H. Angot, J. Bieser, F. Brocza, B. Edwards, **A. Feinberg**, X. Feng, B. Geyman, C. Gournia, Y. He, I. M. Hedgecock, I. Ilyin, T. Keating, J. Kirk, C.-J. Lin, I. Lehnherr, R. Mason, D. McLagan, M. Muntean, P. Rafaj, E. M. Roy, A. Ryjkov, N. E. Selin, F. De Simone, A. L. Soerensen, F. Steenhuisen, O. Travnikov, S. Wang, X. Wang, S, Wilson, R. Wu, Q. Wu, Y. Zhang, J. Zhou, W. Zhu, S. Zolkos, 2025. The Multi-Compartment Hg Modeling and Analysis Project (MCHgMAP): Mercury modeling to support international environmental policy, Geoscientific Model Development, 18, 2747-2860, 2025. \[[pdf](https://doi.org/10.5194/gmd-18-2747-2025)].
+1. A. Dastoor, H. Angot, J. Bieser, F. Brocza, B. Edwards, **A. Feinberg**, X. Feng, B. Geyman, C. Gournia, Y. He, I. M. Hedgecock, I. Ilyin, T. Keating, J. Kirk, C.-J. Lin, I. Lehnherr, R. Mason, D. McLagan, M. Muntean, P. Rafaj, E. M. Roy, A. Ryjkov, N. E. Selin, F. De Simone, A. L. Soerensen, F. Steenhuisen, O. Travnikov, S. Wang, X. Wang, S, Wilson, R. Wu, Q. Wu, Y. Zhang, J. Zhou, W. Zhu, S. Zolkos, 2025. The Multi-Compartment Hg Modeling and Analysis Project (MCHgMAP): Mercury modeling to support international environmental policy, Geoscientific Model Development, 18, 2747-2860. \[[pdf](https://doi.org/10.5194/gmd-18-2747-2025)].
 
 1.  S. Vattioni,  R. Weber, J. A. Dykema, B. Luo, A. Stenke, **A. Feinberg**,  M. Ammann, C. Vockenhuber, M. Doebeli, G. A. Kelesidis, U. Krieger, T. Sukhodolov, F. N. Keutsch, T. Peter, G. Chiodo, 2025. Injecting solid particles into the stratosphere could mitigate global warming but currently entails great uncertainties. Communications Earth & Environment, 6(132), 1-10. \[[pdf](https://doi.org/10.1038/s43247-025-02038-1)] \[[data](https://doi.org/10.3929/ethz-b-000670453)] \[[code](https://doi.org/10.5281/zenodo.8398627)]
 
