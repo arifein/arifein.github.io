@@ -21,7 +21,9 @@ author_profile: true
 OA pdf refers to Open Access PDF, when journal version is paywalled.
 
 **Preprints**
-1. C. Gournia,  N. E. Selin, **A. Feinberg**. Identifying regions that can constrain anthropogenic Hg emissions uncertainties through modelling, EGUsphere. \[[pdf](https://doi.org/10.5194/egusphere-2025-4018)]
+1. R. P. Fernandez, C. A. Cuevas, J. Villamayor, **A. Feinberg**, D. E. Kinnison, F. Vitt, A. Bossolasco, J. A. Barrera, A. Reynoso, O. G. Tomazzeli, Q. Li, and A. Saiz-Lopez. Short-Lived Halogen Sources and Chemistry in the Community Earth System Model v2 (CESM2-SLH), EGUsphere. \[[pdf](https://doi.org/10.5194/egusphere-2025-3250)] \[[data](https://doi.org/10.17632/f87hvrv25v.1)]
+
+1. C. Gournia,  N. E. Selin, **A. Feinberg**. Identifying regions that can constrain anthropogenic Hg emissions uncertainties through modelling, EGUsphere. \[[pdf](https://doi.org/10.5194/egusphere-2025-4018)] \[[data](https://doi.org/10.7910/DVN/Z3FKWE)]
 
 **Peer-reviewed papers**
 1. J. Carmona-García, A. Saiz-Lopez, A. S. Mahajan, F. Wang, A. Borrego-Sánchez, A. U. Acuña, C. A. Cuevas, J. Z. Dávalos, **A. Feinberg**, A. Spolaor, M. F. Ruiz-López, J. S. Francisco, D. Roca-Sanjuán, 2025. Photoreduction of mercuric bromides in polar ice, Proceedings of the National Academy of Sciences, 122(10), e2422885122. \[[pdf](https://doi.org/10.1073/pnas.2422885122)].
