@@ -4,6 +4,8 @@ title: "Outreach & Media"
 permalink: /media/
 author_profile: true
 ---
+## Outreach Events
+**Knowledge Lab event at Sixth meeting of the Conference of the Parties to the Minamata Convention on Mercury (COP-6)**, Geneva, 2025, “From Science to Policy – Integrating Data for the First Effectiveness Evaluation”, \[[recording](https://www.youtube.com/watch?v=IAUZDAd-kGc)]
 
 ## Featured news coverage
 **Chemical & Engineering News (c&en)**, 2025, "Mercury emissions are falling" \[[article](https://cen.acs.org/environment/pollution/Mercury-emissions-falling/103/web/2025/05)]
