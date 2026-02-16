@@ -4,12 +4,12 @@ title: "Projects"
 excerpt: "Projects"
 author_profile: true
 ---
-## Uncertainties in the atmospheric chemistry of mercury
-It is challenging to model the atmospheric redox transformations of mercury for a multitude of reasons: ambient field and laboratory measurements are scarce, concentrations of oxidized mercury are extremely low (pg m<sup>-3</sup> level), and many reactants are involved. In my EU-funded MSCA project ([TrendS and Uncertainties in Mercury (Hg) Atmospheric Chemistry](https://cordis.europa.eu/project/id/101103544)), I aim to tackle these uncertainties using models and existing measurements. I will use tools from the field of global sensitivity analysis to identify key reactions and constrain their values based on field data, establishing a new chemical mechanism for atmospheric Hg models.
+## Trends in the atmospheric oxidation of mercury
+The atmospheric lifetime of mercury is generally assumed to be constant over time, when in fact it is impacted by changes in atmospheric oxidants. In my EU-funded MSCA project ([TrendS and Uncertainties in Mercury (Hg) Atmospheric Chemistry](https://cordis.europa.eu/project/id/101103544)), I analyzed the changes to mercury chemistry between the preindustrial period and present day. Increases in ozone pollution have accelerated mercury oxidation in the Northern Hemisphere tropics and subtropics, but have had the opposite effect in the Southern Hemisphere extratropics due to ozone's impacts on bromine partitioning. The published study ([Feinberg et al., AGU Advances, 2026](https://doi.org/10.1029/2025AV002158)) highlights atmospheric chemistry as a previously unexplored factor that should be considered in subsequent studies of mercury cycling in different time periods.
 <figure>
-    <img src="/images/simple_chem.png"
-         alt="Hg time series analysis">
-    <figcaption>Hg oxidation chemistry and some of the reactants involved. </figcaption>
+    <img src="/images/schematic_PI_PD.png"
+         alt="Schematic of mercury chemistry changes between preindustrial and present day">
+    <figcaption>Changes to atmospheric mercury chemistry between preindustrial and present day </figcaption>
 </figure>
 
 ## Drivers of recent mercury trends
