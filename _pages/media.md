@@ -8,6 +8,8 @@ author_profile: true
 **Knowledge Lab event at Sixth meeting of the Conference of the Parties to the Minamata Convention on Mercury (COP-6)**, Geneva, 2025, “From Science to Policy – Integrating Data for the First Effectiveness Evaluation”, \[[recording](https://www.youtube.com/watch?v=IAUZDAd-kGc)]
 
 ## Featured news coverage
+**CSIC**, 2026, "A new measurement technique reveals unexpected species of mercury in the atmosphere" \[[article in English](https://www.iqfr.csic.es/en/investigacion-oculto-2/1431-una-nueva-tecnica-de-medicion-revela-especies-inesperadas-de-mercurio-en-la-atmosfera-2)] \[[artículo en español](https://www.iaa.csic.es/noticia/tecnica-medicion-especies-mercurio-atmosfera/)]
+
 **Eos**, 2026, "Human Effects on Background Atmosphere have Affected Mercury Chemistry" \[[article](https://eos.org/editor-highlights/human-effects-on-background-atmosphere-have-affected-mercury-chemistry)]
 
 **Chemical & Engineering News (c&en)**, 2025, "Mercury emissions are falling" \[[article](https://cen.acs.org/environment/pollution/Mercury-emissions-falling/103/web/2025/05)]
