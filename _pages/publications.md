@@ -26,6 +26,8 @@ OA pdf refers to Open Access PDF, when journal version is paywalled.
 1. C. Gournia,  N. E. Selin, **A. Feinberg**. Identifying regions that can constrain anthropogenic Hg emissions uncertainties through modelling, EGUsphere. \[[pdf](https://doi.org/10.5194/egusphere-2025-4018)] \[[data](https://doi.org/10.7910/DVN/Z3FKWE)]
 
 **Peer-reviewed papers**
+1. T. Jokinen, J. C. Gómez Martín, **A. Feinberg**, A. S. Mahajan, J. M. C. Plane, A. U. Acuña, C. Cuevas, J. Z. Dávalos, L. L. J. Quéléver, T. Laurila, I. Beck, J. Schmale, H. Junninen, M. Sipilä, M. Kulmala, T. Petäjä, A. Saiz-Lopez, 2026. Direct observations of atmospheric oxidized mercury speciation in polar areas. Nature Communications, 17, 3160. \[[pdf](https://doi.org/10.1038/s41467-026-71146-z)] \[[data](https://doi.org/10.5281/zenodo.15332305)]
+
 1. **A. Feinberg**, J. E. Sonke, C. A. Cuevas, M.-L. Li, A. U. Acuña, R. P. Fernandez, J. M. C. Plane, J. Villamayor, A. Saiz-Lopez, 2026. Shifts in atmospheric composition since the preindustrial era modified the transport and deposition of mercury. AGU Advances, 7, e2025AV002158. \[[pdf](https://doi.org/10.1029/2025AV002158)] \[[data](https://doi.org/10.7910/DVN/25XLSM)]
 
 1. J. Carmona-García, A. Saiz-Lopez, A. S. Mahajan, F. Wang, A. Borrego-Sánchez, A. U. Acuña, C. A. Cuevas, J. Z. Dávalos, **A. Feinberg**, A. Spolaor, M. F. Ruiz-López, J. S. Francisco, D. Roca-Sanjuán, 2025. Photoreduction of mercuric bromides in polar ice, Proceedings of the National Academy of Sciences, 122(10), e2422885122. \[[pdf](https://doi.org/10.1073/pnas.2422885122)]
