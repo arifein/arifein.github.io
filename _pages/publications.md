@@ -23,9 +23,9 @@ OA pdf refers to Open Access PDF, when journal version is paywalled.
 **Preprints**
 1. R. P. Fernandez, C. A. Cuevas, J. Villamayor, **A. Feinberg**, D. E. Kinnison, F. Vitt, A. Bossolasco, J. A. Barrera, A. Reynoso, O. G. Tomazzeli, Q. Li, and A. Saiz-Lopez. Short-Lived Halogen Sources and Chemistry in the Community Earth System Model v2 (CESM2-SLH), EGUsphere. \[[pdf](https://doi.org/10.5194/egusphere-2025-3250)] \[[data](https://doi.org/10.17632/f87hvrv25v.1)]
 
-1. C. Gournia,  N. E. Selin, **A. Feinberg**. Identifying regions that can constrain anthropogenic Hg emissions uncertainties through modelling, EGUsphere. \[[pdf](https://doi.org/10.5194/egusphere-2025-4018)] \[[data](https://doi.org/10.7910/DVN/Z3FKWE)]
-
 **Peer-reviewed papers**
+1. C. Gournia,  N. E. Selin, **A. Feinberg**, 2026. Identifying regions that can constrain anthropogenic Hg emissions uncertainties through modelling, Atmospheric Chemistry and Physics, 26, 5039–5061. \[[pdf](https://doi.org/10.5194/acp-26-5039-2026)] \[[data](https://doi.org/10.7910/DVN/Z3FKWE)]
+
 1. T. Jokinen, J. C. Gómez Martín, **A. Feinberg**, A. S. Mahajan, J. M. C. Plane, A. U. Acuña, C. Cuevas, J. Z. Dávalos, L. L. J. Quéléver, T. Laurila, I. Beck, J. Schmale, H. Junninen, M. Sipilä, M. Kulmala, T. Petäjä, A. Saiz-Lopez, 2026. Direct observations of atmospheric oxidized mercury speciation in polar areas. Nature Communications, 17, 3160. \[[pdf](https://doi.org/10.1038/s41467-026-71146-z)] \[[data](https://doi.org/10.5281/zenodo.15332305)]
 
 1. **A. Feinberg**, J. E. Sonke, C. A. Cuevas, M.-L. Li, A. U. Acuña, R. P. Fernandez, J. M. C. Plane, J. Villamayor, A. Saiz-Lopez, 2026. Shifts in atmospheric composition since the preindustrial era modified the transport and deposition of mercury. AGU Advances, 7, e2025AV002158. \[[pdf](https://doi.org/10.1029/2025AV002158)] \[[data](https://doi.org/10.7910/DVN/25XLSM)]
