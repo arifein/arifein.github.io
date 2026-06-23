@@ -8,6 +8,10 @@ author_profile: true
 **Knowledge Lab event at Sixth meeting of the Conference of the Parties to the Minamata Convention on Mercury (COP-6)**, Geneva, 2025, “From Science to Policy – Integrating Data for the First Effectiveness Evaluation”, \[[recording](https://www.youtube.com/watch?v=IAUZDAd-kGc)]
 
 ## Featured news coverage
+**El Confidencial**, 2026, "Perforan el hielo de Groenlandia hasta los 1.250 metros y descubren que los humanos contaminamos con mercurio desde hace 4.000 años" \[[artículo](https://www.elconfidencial.com/tecnologia/ciencia/2026-06-21/perforan-el-hielo-de-groenlandia-hasta-los-1-250-metros-de-profundidad-y-descubren-que-los-humanos-contaminamos-desde-hace-4-000-anos_4375022/)]
+
+**CSIC**, 2026, "El hielo de Groenlandia revela que el ser humano lleva contaminando el planeta con mercurio desde hace 4.000 años" \[[artículo](https://www.csic.es/en/node/388386)]
+
 **CSIC**, 2026, "A new measurement technique reveals unexpected species of mercury in the atmosphere" \[[article in English](https://www.iqfr.csic.es/en/investigacion-oculto-2/1431-una-nueva-tecnica-de-medicion-revela-especies-inesperadas-de-mercurio-en-la-atmosfera-2)] \[[artículo en español](https://www.iaa.csic.es/noticia/tecnica-medicion-especies-mercurio-atmosfera/)]
 
 **Eos**, 2026, "Human Effects on Background Atmosphere have Affected Mercury Chemistry" \[[article](https://eos.org/editor-highlights/human-effects-on-background-atmosphere-have-affected-mercury-chemistry)]
