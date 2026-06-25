@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Aryeh Feinberg"
 title_separator          : "-"
 name                     : &name "Ari Feinberg"
-description              : &description "Postdoc in Atmospheric Chemistry"
+description              : &description "Scientist in Atmospheric Chemistry"
 url                      : https://arifein.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "arifein/arifein.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ari Feinberg"
   avatar           : "IMG_8177_Fotor_lowres.jpeg"
-  bio              : "Postdoctoral Fellow"
+  bio              : "Ramón y Cajal Fellow"
   location         : "Madrid, Spain"
   employer         :
   pubmed           : 
