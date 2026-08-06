@@ -21,6 +21,8 @@ author_profile: true
 OA pdf refers to Open Access PDF, when journal version is paywalled.
 
 **Preprints**
+1. E. M. Roy, **A. Feinberg**, J. Chen, T. Dlamini, J. A. Fisher, J. Powell, A. Dommergue, O. Magand, M. F. Andrade-Flores, J. Harnwell, J. Ward,  N. E. Selin. Variability-based constraints on regional gaseous elemental mercury fluxes, ESSOAR. \[[pdf](https://doi.org/10.22541/essoar.15003725/v1)] \[[data](https://doi.org/10.5281/zenodo.18329342)]
+
 1. R. P. Fernandez, C. A. Cuevas, J. Villamayor, **A. Feinberg**, D. E. Kinnison, F. Vitt, A. Bossolasco, J. A. Barrera, A. Reynoso, O. G. Tomazzeli, Q. Li, A. Saiz-Lopez. Short-Lived Halogen Sources and Chemistry in the Community Earth System Model v2 (CESM2-SLH), EGUsphere. \[[pdf](https://doi.org/10.5194/egusphere-2025-3250)] \[[data](https://doi.org/10.17632/f87hvrv25v.1)]
 
 **Peer-reviewed papers**
