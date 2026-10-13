@@ -5,9 +5,9 @@ excerpt: "Projects"
 author_profile: true
 ---
 ## Impacts of climate change on mercury cycling
-Mercury levels in the environment are likely to remain elevated for many years as anthropogenic emissions from our past continue to recirculate for centuries. Early research suggests that there are many pathways in which climate change (through rising temperatures, melting ice, wildfires) could make mercury more mobile and available in the environment, as well as affecting the accumulation of mercury in the food chain. We have published a perspective article on the topic of the influence of climate on mercury pollution and the uncertainties that currently limit our prediction of future impacts ([Feinberg and Saiz-Lopez, Science, 2026](https://doi.org/10.1126/science.aeh7034)). We aim to contribute to this research field by developing new interconnected Earth System Models that can predict how climate will affect mercury pollution and ultimately human exposure.
+Mercury levels in the environment are likely to remain elevated for many years as anthropogenic emissions from our past continue to recirculate for centuries. Early research suggests that there are many pathways in which climate change (through rising temperatures, melting ice, wildfires) could make mercury more mobile and available in the environment, as well as affecting the accumulation of mercury in the food chain. We have published a perspective article on the topic of the influence of climate on mercury pollution and the uncertainties that currently limit our prediction of future impacts ([Feinberg and Saiz-Lopez, Science, 2026](https://doi.org/10.1126/science.aeh7034)). We aim to contribute to this research field by developing new interconnected Earth System Models that can better assess how climate will affect mercury pollution and ultimately human exposure.
 <figure>
-    <img src="/images/climate_perspective_diagram_final_Página 3_trans.png"
+    <img src="/images/climate_perspective_diagram.png"
          alt="Schematic of climate impacts on mercury cycling in different compartments">
     <figcaption>The impacts of climate change on the mercury cycle in different environmental compartments (design: NorArte Visual Science). </figcaption>
 </figure>
