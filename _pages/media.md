@@ -4,10 +4,9 @@ title: "Outreach & Media"
 permalink: /media/
 author_profile: true
 ---
-## Outreach Events
-**Knowledge Lab event at Sixth meeting of the Conference of the Parties to the Minamata Convention on Mercury (COP-6)**, Geneva, 2025, “From Science to Policy – Integrating Data for the First Effectiveness Evaluation”, \[[recording](https://www.youtube.com/watch?v=IAUZDAd-kGc)]
-
 ## Featured news coverage
+**SINC**, 2026, "El cambio climático podría aumentar la amenaza del mercurio para la salud" \[[artículo](https://www.agenciasinc.es/Noticias/El-cambio-climatico-podria-aumentar-la-amenaza-del-mercurio-para-la-salud)]
+
 **El Confidencial**, 2026, "Perforan el hielo de Groenlandia hasta los 1.250 metros y descubren que los humanos contaminamos con mercurio desde hace 4.000 años" \[[artículo](https://www.elconfidencial.com/tecnologia/ciencia/2026-06-21/perforan-el-hielo-de-groenlandia-hasta-los-1-250-metros-de-profundidad-y-descubren-que-los-humanos-contaminamos-desde-hace-4-000-anos_4375022/)]
 
 **CSIC**, 2026, "El hielo de Groenlandia revela que el ser humano lleva contaminando el planeta con mercurio desde hace 4.000 años" \[[artículo](https://www.csic.es/en/node/388386)]
@@ -35,6 +34,9 @@ author_profile: true
 **Mongabay**, 2023, "Brazil tackles illegal miners, but finds their mercury legacy harder to erase" \[[article](https://news.mongabay.com/2023/03/brazil-tackles-illegal-miners-but-finds-their-mercury-legacy-harder-to-erase/)]
 
 **Eawag News**, 2021, "Atmospheric inputs of nutrients to soil to decrease in the future" \[[article](https://www.eawag.ch/en/info/portal/news/news-detail/atmospheric-inputs-of-nutrients-to-soil-to-decrease-in-the-future/)]
+
+## Outreach Events
+**Knowledge Lab event at Sixth meeting of the Conference of the Parties to the Minamata Convention on Mercury (COP-6)**, Geneva, 2025, “From Science to Policy – Integrating Data for the First Effectiveness Evaluation” \[[recording](https://www.youtube.com/watch?v=IAUZDAd-kGc)]
 
 ## Blog posts
 **Kudos Research Showcase**, 2024, "Declining atmospheric mercury concentrations over the last two decades" \[[blog](https://link.growkudos.com/1e9gcl7r8qo)]
