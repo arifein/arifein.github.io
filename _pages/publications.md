@@ -23,9 +23,11 @@ OA pdf refers to Open Access PDF, when journal version is paywalled.
 **Preprints**
 1. E. M. Roy, **A. Feinberg**, J. Chen, T. Dlamini, J. A. Fisher, J. Powell, A. Dommergue, O. Magand, M. F. Andrade-Flores, J. Harnwell, J. Ward,  N. E. Selin. Variability-based constraints on regional gaseous elemental mercury fluxes, ESSOAR. \[[pdf](https://doi.org/10.22541/essoar.15003725/v1)] \[[data](https://doi.org/10.5281/zenodo.18329342)]
 
-1. R. P. Fernandez, C. A. Cuevas, J. Villamayor, **A. Feinberg**, D. E. Kinnison, F. Vitt, A. Bossolasco, J. A. Barrera, A. Reynoso, O. G. Tomazzeli, Q. Li, A. Saiz-Lopez. Short-Lived Halogen Sources and Chemistry in the Community Earth System Model v2 (CESM2-SLH), EGUsphere. \[[pdf](https://doi.org/10.5194/egusphere-2025-3250)] \[[data](https://doi.org/10.17632/f87hvrv25v.1)]
-
 **Peer-reviewed papers**
+1. **A. Feinberg**, A. Saiz-Lopez, 2026. Climate change reshapes the global mercury cycle, Science, 394 (6820), 168-169. \[[pdf](https://doi.org/10.1126/science.aeh7034)]
+   
+1. R. P. Fernandez, C. A. Cuevas, J. Villamayor, **A. Feinberg**, D. E. Kinnison, F. Vitt, A. Bossolasco, J. A. Barrera, A. Reynoso, O. G. Tomazzeli, Q. Li, A. Saiz-Lopez, 2026. Short-Lived Halogen Sources and Chemistry in the Community Earth System Model v2 (CESM2-SLH), Geoscientific Model Development, 19, 9325–9376. \[[pdf](https://doi.org/10.5194/gmd-19-9325-2026)] \[[data](https://doi.org/10.17632/f87hvrv25v.3)] \[[code](https://doi.org/10.5281/zenodo.21738917)]
+
 1. Z. Gao,  R. Oliveira, **A. Feinberg**, D. Segato, A. Saiz-Lopez, D. Armstrong, A. Spolaor, H. A. Kjær, J. P. Steffensen, C. Barbante, D. Dahl-Jensen, F. Wang, 2026. Mercury accumulation over the Holocene revealed from a Greenlandic ice core, Science Advances, 12, eaea0517. \[[pdf](https://doi.org/10.1126/sciadv.aea0517)] \[[data](https://doi.org/10.5281/zenodo.17402599)] \[[code](https://doi.org/10.5281/zenodo.17256993)]
 
 1. C. Gournia,  N. E. Selin, **A. Feinberg**, 2026. Identifying regions that can constrain anthropogenic Hg emissions uncertainties through modelling, Atmospheric Chemistry and Physics, 26, 5039–5061. \[[pdf](https://doi.org/10.5194/acp-26-5039-2026)] \[[data](https://doi.org/10.7910/DVN/Z3FKWE)]
