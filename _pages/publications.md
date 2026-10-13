@@ -24,7 +24,7 @@ OA pdf refers to Open Access PDF, when journal version is paywalled.
 1. E. M. Roy, **A. Feinberg**, J. Chen, T. Dlamini, J. A. Fisher, J. Powell, A. Dommergue, O. Magand, M. F. Andrade-Flores, J. Harnwell, J. Ward,  N. E. Selin. Variability-based constraints on regional gaseous elemental mercury fluxes, ESSOAR. \[[pdf](https://doi.org/10.22541/essoar.15003725/v1)] \[[data](https://doi.org/10.5281/zenodo.18329342)]
 
 **Peer-reviewed papers**
-1. **A. Feinberg**, A. Saiz-Lopez, 2026. Climate change reshapes the global mercury cycle, Science, 394 (6820), 168-169. \[[pdf](https://doi.org/10.1126/science.aeh7034)] \[[OA pdf](https://www.science.org/eprint/YTQGPIYFZCQWNU7NVBK4/full?activationRedirect=/doi/full/10.1126/science.aeh7034)]
+1. **A. Feinberg**, A. Saiz-Lopez, 2026. Climate change reshapes the global mercury cycle, Science, 394 (6820), 168-169. \[[pdf](https://doi.org/10.1126/science.aeh7034)] \[[OA pdf](http://hdl.handle.net/10261/446816)]
    
 1. R. P. Fernandez, C. A. Cuevas, J. Villamayor, **A. Feinberg**, D. E. Kinnison, F. Vitt, A. Bossolasco, J. A. Barrera, A. Reynoso, O. G. Tomazzeli, Q. Li, A. Saiz-Lopez, 2026. Short-Lived Halogen Sources and Chemistry in the Community Earth System Model v2 (CESM2-SLH), Geoscientific Model Development, 19, 9325–9376. \[[pdf](https://doi.org/10.5194/gmd-19-9325-2026)] \[[data](https://doi.org/10.17632/f87hvrv25v.3)] \[[code](https://doi.org/10.5281/zenodo.21738917)]
 
