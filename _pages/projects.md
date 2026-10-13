@@ -4,6 +4,14 @@ title: "Projects"
 excerpt: "Projects"
 author_profile: true
 ---
+## Impacts of climate change on mercury cycling
+Mercury levels in the environment are likely to remain elevated for many years as anthropogenic emissions from our past continue to recirculate for centuries. Early research suggests that there are many pathways in which climate change (through rising temperatures, melting ice, wildfires) could make mercury more mobile and available in the environment, as well as affecting the accumulation of mercury in the food chain. We have published a perspective article on the topic of the influence of climate on mercury pollution and the uncertainties that currently limit our prediction of future impacts ([Feinberg and Saiz-Lopez, Science, 2026](https://doi.org/10.1126/science.aeh7034)). We aim to contribute to this research field by developing new interconnected Earth System Models that can predict how climate will affect mercury pollution and ultimately human exposure.
+<figure>
+    <img src="/images/climate_perspective_diagram_final_Página 3_trans.png"
+         alt="Schematic of climate impacts on mercury cycling in different compartments">
+    <figcaption>The impacts of climate change on the mercury cycle in different environmental compartments (design: NorArte Visual Science). </figcaption>
+</figure>
+
 ## Trends in the atmospheric oxidation of mercury
 The atmospheric lifetime of mercury is generally assumed to be constant over time, when in fact it is impacted by changes in atmospheric oxidants. In my EU-funded MSCA project ([TrendS and Uncertainties in Mercury (Hg) Atmospheric Chemistry](https://cordis.europa.eu/project/id/101103544)), I analyzed the changes to mercury chemistry between the preindustrial period and present day. Increases in ozone pollution have accelerated mercury oxidation in the Northern Hemisphere tropics and subtropics, but have had the opposite effect in the Southern Hemisphere extratropics due to ozone's impacts on bromine partitioning. The published study ([Feinberg et al., AGU Advances, 2026](https://doi.org/10.1029/2025AV002158)) highlights atmospheric chemistry as a previously unexplored factor that should be considered in subsequent studies of mercury cycling in different time periods.
 <figure>
